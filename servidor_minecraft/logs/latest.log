@@ -1406,3 +1406,78 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Jan2025 01:36:29.148] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21Jan2025 01:36:33.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [21Jan2025 01:36:34.721] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/103382, l='ServerLevel[world]', x=191.50, y=71.00, z=-264.50]
+[21Jan2025 01:36:37.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/98593, l='ServerLevel[world]', x=198.80, y=81.00, z=-421.25] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:53.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4459ms or 89 ticks behind
+[21Jan2025 01:36:53.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/103902, l='ServerLevel[world]', x=192.50, y=69.00, z=-261.50]
+[21Jan2025 01:37:04.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/100152, l='ServerLevel[world]', x=199.70, y=78.00, z=-422.62] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:37:12.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[21Jan2025 01:37:23.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/95627, l='ServerLevel[world]', x=199.50, y=78.00, z=-421.42] died: Oil Rig Worker burned to death
+[21Jan2025 01:37:26.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104929, l='ServerLevel[world]', x=258.50, y=72.00, z=-155.50]
+[21Jan2025 01:37:31.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4153ms or 83 ticks behind
+[21Jan2025 01:37:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _MrCuack_ has made the advancement [Barrel Booty]
+[21Jan2025 01:37:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _MrCuack_ has made the advancement [Disme A Dozen]
+[21Jan2025 01:37:44.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105598, l='ServerLevel[world]', x=238.50, y=74.00, z=-265.50]
+[21Jan2025 01:37:50.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
+[21Jan2025 01:37:56.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/106030, l='ServerLevel[world]', x=190.50, y=71.00, z=-264.50]
+[21Jan2025 01:38:01.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/106230, l='ServerLevel[world]', x=252.50, y=72.00, z=-270.50]
+[21Jan2025 01:38:05.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _MrCuack_ has made the advancement [Hunt and Gather]
+[21Jan2025 01:38:07.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[21Jan2025 01:38:21.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/107019, l='ServerLevel[world]', x=253.50, y=72.00, z=-270.50]
+[21Jan2025 01:38:26.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 was slain by Oil Rig Worker
+[21Jan2025 01:38:27.661] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jan2025 01:38:29.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Jan2025 01:38:46.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
+[21Jan2025 01:38:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peloteuz12 has made the advancement [Crops of the Wild]
+[21Jan2025 01:39:01.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/108297, l='ServerLevel[world]', x=152.50, y=74.00, z=-167.50]
+[21Jan2025 01:39:04.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[21Jan2025 01:39:08.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peloteuz12 has made the advancement [Disme A Dozen]
+[21Jan2025 01:39:10.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/108598, l='ServerLevel[world]', x=45.50, y=72.00, z=-91.50]
+[21Jan2025 01:39:14.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peloteuz12 has made the advancement [Hunt and Gather]
+[21Jan2025 01:39:22.671] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/108961, l='ServerLevel[world]', x=71.50, y=71.00, z=-114.50]
+[21Jan2025 01:39:25.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[21Jan2025 01:39:43.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[21Jan2025 01:40:00.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[21Jan2025 01:40:57.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biviri has made the advancement [Barrel Booty]
+[21Jan2025 01:41:21.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Jan2025 01:41:52.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 was slain by Oil Rig Worker
+[21Jan2025 01:41:54.132] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jan2025 01:41:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biviri has made the advancement [Sweet Dreams]
+[21Jan2025 01:42:00.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Jan2025 01:42:06.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biviri has made the advancement [Close Quarters]
+[21Jan2025 01:42:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biviri has made the advancement [Hunt and Gather]
+[21Jan2025 01:42:19.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[21Jan2025 01:42:37.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[21Jan2025 01:42:41.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/114300, l='ServerLevel[world]', x=217.50, y=73.00, z=-272.50]
+[21Jan2025 01:42:54.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[21Jan2025 01:42:55.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/114580, l='ServerLevel[world]', x=216.50, y=73.00, z=-270.50]
+[21Jan2025 01:43:12.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21Jan2025 01:43:30.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[21Jan2025 01:43:39.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/114775, l='ServerLevel[world]', x=202.38, y=100.00, z=-411.53] died: Oil Rig Worker was slain by biviri
+[21Jan2025 01:43:48.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3115ms or 62 ticks behind
+[21Jan2025 01:44:06.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[21Jan2025 01:44:21.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/115635, l='ServerLevel[world]', x=185.48, y=99.00, z=-394.55] died: Oil Rig Worker was slain by biviri
+[21Jan2025 01:44:34.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/115258, l='ServerLevel[world]', x=185.51, y=99.00, z=-394.48] died: Oil Rig Worker was slain by biviri
+[21Jan2025 01:44:37.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/117238, l='ServerLevel[world]', x=242.50, y=74.00, z=-263.50]
+[21Jan2025 01:44:44.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/110866, l='ServerLevel[world]', x=185.03, y=79.91, z=-389.07] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:45.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/110887, l='ServerLevel[world]', x=185.30, y=78.99, z=-389.51] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:46.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/112130, l='ServerLevel[world]', x=185.29, y=79.27, z=-389.13] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:46.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/109977, l='ServerLevel[world]', x=183.30, y=78.23, z=-389.85] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:47.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/113508, l='ServerLevel[world]', x=185.12, y=78.03, z=-390.42] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:47.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/113523, l='ServerLevel[world]', x=183.70, y=80.50, z=-390.30] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:47.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/113524, l='ServerLevel[world]', x=183.82, y=78.00, z=-388.46] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:48.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/114036, l='ServerLevel[world]', x=183.79, y=78.00, z=-390.67] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:50.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/112113, l='ServerLevel[world]', x=185.15, y=79.00, z=-388.97] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:50.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/112562, l='ServerLevel[world]', x=184.38, y=79.00, z=-389.55] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:51.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/114434, l='ServerLevel[world]', x=184.83, y=78.00, z=-388.31] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:52.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/113509, l='ServerLevel[world]', x=185.96, y=78.00, z=-388.33] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:52.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/112942, l='ServerLevel[world]', x=185.70, y=78.00, z=-389.64] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:53.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/114025, l='ServerLevel[world]', x=186.22, y=79.42, z=-389.06] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:53.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/112941, l='ServerLevel[world]', x=184.38, y=78.00, z=-392.57] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:44:58.848] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/109957, l='ServerLevel[world]', x=185.51, y=79.00, z=-393.41] died: Oil Rig Worker burned to death
+[21Jan2025 01:45:01.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/109563, l='ServerLevel[world]', x=186.26, y=79.25, z=-393.52] died: Oil Rig Worker burned to death
+[21Jan2025 01:45:10.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/112545, l='ServerLevel[world]', x=184.59, y=79.00, z=-393.50] died: Oil Rig Worker burned to death
+[21Jan2025 01:45:10.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/114430, l='ServerLevel[world]', x=186.43, y=79.00, z=-389.59] died: Oil Rig Worker went up in flames
+[21Jan2025 01:45:19.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/114035, l='ServerLevel[world]', x=183.58, y=78.00, z=-388.40] died: Oil Rig Worker burned to death
+[21Jan2025 01:45:41.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/109978, l='ServerLevel[world]', x=186.13, y=78.00, z=-390.95] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:45:45.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/112927, l='ServerLevel[world]', x=183.83, y=78.00, z=-390.25] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:46:26.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/118268, l='ServerLevel[world]', x=187.79, y=99.00, z=-413.44] died: Oil Rig Worker was slain by biviri
