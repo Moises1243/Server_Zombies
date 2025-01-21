@@ -1,0 +1,17 @@
+{
+	id: "0e063736-4042-3ab5-8465-5c899682ab16"
+	type: "player"
+	player_name: "CevITO69"
+	ranks: {
+		0e063736-4042-3ab5-8465-5c899682ab16: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CevITO69"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCD59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

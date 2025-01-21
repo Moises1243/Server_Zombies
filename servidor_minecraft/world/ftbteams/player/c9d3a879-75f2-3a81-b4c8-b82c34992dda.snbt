@@ -1,0 +1,17 @@
+{
+	id: "c9d3a879-75f2-3a81-b4c8-b82c34992dda"
+	type: "player"
+	player_name: "Cori28"
+	ranks: {
+		c9d3a879-75f2-3a81-b4c8-b82c34992dda: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cori28"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

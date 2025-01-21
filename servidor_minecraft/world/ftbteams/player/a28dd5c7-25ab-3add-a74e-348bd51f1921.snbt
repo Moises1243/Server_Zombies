@@ -1,0 +1,17 @@
+{
+	id: "a28dd5c7-25ab-3add-a74e-348bd51f1921"
+	type: "player"
+	player_name: "peloteuz12"
+	ranks: {
+		a28dd5c7-25ab-3add-a74e-348bd51f1921: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "peloteuz12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

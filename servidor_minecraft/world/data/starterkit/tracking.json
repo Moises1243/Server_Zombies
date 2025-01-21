@@ -1,0 +1,12 @@
+{
+  "singleplayer": {
+    "world": true
+  },
+  "multiplayer": {
+    "fb1147df-74f0-4382-9052-bf107c7fa2b1": true,
+    "a28dd5c7-25ab-3add-a74e-348bd51f1921": true,
+    "0e063736-4042-3ab5-8465-5c899682ab16": true,
+    "c9d3a879-75f2-3a81-b4c8-b82c34992dda": true,
+    "4827537b-3fd3-3b5b-8552-2740c1385de2": true
+  }
+}
