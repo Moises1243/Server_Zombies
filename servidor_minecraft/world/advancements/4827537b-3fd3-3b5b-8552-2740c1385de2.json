@@ -194,7 +194,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-21 00:33:28 +0000",
-      "sweet_berries": "2025-01-21 00:27:56 +0000"
+      "sweet_berries": "2025-01-21 00:27:56 +0000",
+      "bread": "2025-01-21 00:59:18 +0000"
     },
     "done": false
   },
@@ -2022,6 +2023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-21 00:58:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-21 00:48:35 +0000"
@@ -2037,6 +2044,12 @@
   "bbb:recipes/rope": {
     "criteria": {
       "has_string": "2025-01-21 00:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-21 00:56:40 +0000"
     },
     "done": true
   },
@@ -2580,6 +2593,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-01-21 00:58:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-01-21 00:52:20 +0000"
@@ -2805,6 +2824,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 00:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-21 00:58:04 +0000"
     },
     "done": true
   },
@@ -3213,6 +3238,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-01-21 00:52:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-21 00:55:52 +0000"
     },
     "done": true
   },
