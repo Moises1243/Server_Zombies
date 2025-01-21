@@ -19700,3 +19700,279 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Jan2025 01:26:01.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/75726, l='ServerLevel[world]', x=217.70, y=92.88, z=-398.98] died: Oil Rig Worker tried to swim in lava
 [21Jan2025 01:26:07.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/71156, l='ServerLevel[world]', x=217.47, y=92.00, z=-398.10] died: Oil Rig Worker tried to swim in lava
 [21Jan2025 01:26:14.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/76506, l='ServerLevel[world]', x=219.73, y=93.50, z=-399.49] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:26:20.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/76107, l='ServerLevel[world]', x=219.19, y=93.00, z=-398.30] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:26:27.813] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/76892, l='ServerLevel[world]', x=219.30, y=92.00, z=-395.87] died: Oil Rig Worker went up in flames
+[21Jan2025 01:26:36.010] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[21Jan2025 01:26:36.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/78369, l='ServerLevel[world]', x=217.50, y=93.17, z=-395.30] died: Oil Rig Worker burned to death
+[21Jan2025 01:26:46.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 was impaled by Drowned
+[21Jan2025 01:26:47.357] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jan2025 01:27:20.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jan2025 01:27:21.936] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/81443, l='ServerLevel[world]', x=69.50, y=71.00, z=-108.50]
+[21Jan2025 01:27:35.244] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/81994, l='ServerLevel[world]', x=244.50, y=74.00, z=-262.50]
+[21Jan2025 01:27:51.360] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/82596, l='ServerLevel[world]', x=43.50, y=72.00, z=-89.50]
+[21Jan2025 01:27:51.688] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 312211282 to 6
+[21Jan2025 01:28:09.131] [Server thread/DEBUG] [pointblank/]: 89131 handling client fire request
+[21Jan2025 01:28:09.132] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 312211282 to 5
+[21Jan2025 01:28:09.132] [Server thread/DEBUG] [pointblank/]: 89132 - obtained hit result in 0ms
+[21Jan2025 01:28:09.132] [Server thread/DEBUG] [pointblank/]: 89132 obtained hit results
+[21Jan2025 01:28:09.132] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1db753c
+[21Jan2025 01:28:09.132] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=208.94, y=107.50, z=-404.55]
+[21Jan2025 01:28:09.132] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70]
+[21Jan2025 01:28:09.132] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=172.39, y=59.48, z=-385.30]
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: 89313 handling client fire request
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 312211282 to 4
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: 89313 - obtained hit result in 0ms
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: 89313 obtained hit results
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6ee2cc6e
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=208.78, y=107.50, z=-404.47]
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70]
+[21Jan2025 01:28:09.313] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=210.43, y=107.00, z=-406.70] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=172.43, y=59.42, z=-385.00]
+[21Jan2025 01:28:10.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/83108, l='ServerLevel[world]', x=217.50, y=73.00, z=-270.50]
+[21Jan2025 01:28:21.009] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/83396, l='ServerLevel[world]', x=240.50, y=74.00, z=-266.50]
+[21Jan2025 01:28:35.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/83817, l='ServerLevel[world]', x=252.50, y=72.00, z=-271.50]
+[21Jan2025 01:29:14.289] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[21Jan2025 01:29:14.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 01:29:14.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 01:30:12.449] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/86341, l='ServerLevel[world]', x=189.50, y=71.00, z=-265.50]
+[21Jan2025 01:31:00.108] [Server thread/DEBUG] [pointblank/]: 60108 handling client fire request
+[21Jan2025 01:31:00.109] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 930207412 to 0
+[21Jan2025 01:31:00.109] [Server thread/DEBUG] [pointblank/]: 60109 - obtained hit result in 0ms
+[21Jan2025 01:31:00.109] [Server thread/DEBUG] [pointblank/]: 60109 obtained hit results
+[21Jan2025 01:31:00.109] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b5d9f65
+[21Jan2025 01:31:00.109] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=224.10, y=61.72, z=-435.25] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=208.55, y=84.00, z=-428.97]
+[21Jan2025 01:31:00.109] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=224.10, y=61.72, z=-435.25] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.77, y=79.00, z=-423.44]
+[21Jan2025 01:31:00.110] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=224.10, y=61.72, z=-435.25] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=208.58, y=79.59, z=-431.74]
+[21Jan2025 01:31:00.110] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=224.10, y=61.72, z=-435.25] sends hit scan notification to ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=224.10, y=61.72, z=-435.25]
+[21Jan2025 01:31:10.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21Jan2025 01:31:10.419] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: 77439 handling client fire request
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1586050541 to 5
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: 77439 - obtained hit result in 0ms
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: 77439 obtained hit results
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5e98350c
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=212.98, y=58.64, z=-426.09] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=207.53, y=84.00, z=-423.91]
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=212.98, y=58.64, z=-426.09] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.96, y=79.00, z=-423.51]
+[21Jan2025 01:31:17.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=212.98, y=58.64, z=-426.09] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=208.91, y=84.00, z=-426.74]
+[21Jan2025 01:31:17.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=212.98, y=58.64, z=-426.09] sends hit scan notification to ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=212.98, y=58.64, z=-426.09]
+[21Jan2025 01:31:17.561] [Server thread/DEBUG] [pointblank/]: 77561 handling client fire request
+[21Jan2025 01:31:17.561] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1586050541 to 4
+[21Jan2025 01:31:17.562] [Server thread/DEBUG] [pointblank/]: 77562 - obtained hit result in 0ms
+[21Jan2025 01:31:17.562] [Server thread/DEBUG] [pointblank/]: 77562 obtained hit results
+[21Jan2025 01:31:17.562] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2e4b5983
+[21Jan2025 01:31:17.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.26, y=58.69, z=-425.99] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=207.44, y=84.00, z=-423.30]
+[21Jan2025 01:31:17.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.26, y=58.69, z=-425.99] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.96, y=79.00, z=-423.51]
+[21Jan2025 01:31:17.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.26, y=58.69, z=-425.99] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=208.91, y=84.00, z=-426.74]
+[21Jan2025 01:31:17.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.26, y=58.69, z=-425.99] sends hit scan notification to ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.26, y=58.69, z=-425.99]
+[21Jan2025 01:31:17.771] [Server thread/DEBUG] [pointblank/]: 77771 handling client fire request
+[21Jan2025 01:31:17.771] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1586050541 to 3
+[21Jan2025 01:31:17.771] [Server thread/DEBUG] [pointblank/]: 77771 - obtained hit result in 0ms
+[21Jan2025 01:31:17.771] [Server thread/DEBUG] [pointblank/]: 77771 obtained hit results
+[21Jan2025 01:31:17.771] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7c968c7f
+[21Jan2025 01:31:17.771] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.51, y=58.66, z=-425.74] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=206.84, y=84.00, z=-422.56]
+[21Jan2025 01:31:17.771] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.51, y=58.66, z=-425.74] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.83, y=79.00, z=-422.97]
+[21Jan2025 01:31:17.772] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.51, y=58.66, z=-425.74] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=208.91, y=84.00, z=-426.74]
+[21Jan2025 01:31:17.772] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.51, y=58.66, z=-425.74] sends hit scan notification to ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=213.51, y=58.66, z=-425.74]
+[21Jan2025 01:31:40.095] [Server thread/DEBUG] [pointblank/]: 95 handling client fire request
+[21Jan2025 01:31:40.096] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1586050541 to 2
+[21Jan2025 01:31:40.096] [Server thread/DEBUG] [pointblank/]: 96 - obtained hit result in 0ms
+[21Jan2025 01:31:40.096] [Server thread/DEBUG] [pointblank/]: 96 obtained hit results
+[21Jan2025 01:31:40.096] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@747ed517
+[21Jan2025 01:31:40.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.34, y=62.89, z=-435.45] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=208.79, y=84.00, z=-431.12]
+[21Jan2025 01:31:40.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.34, y=62.89, z=-435.45] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=186.30, y=79.00, z=-422.95]
+[21Jan2025 01:31:40.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.34, y=62.89, z=-435.45] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=196.75, y=83.00, z=-421.23]
+[21Jan2025 01:31:40.097] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.34, y=62.89, z=-435.45] sends hit scan notification to ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.34, y=62.89, z=-435.45]
+[21Jan2025 01:31:40.325] [Server thread/DEBUG] [pointblank/]: 325 handling client fire request
+[21Jan2025 01:31:40.325] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1586050541 to 1
+[21Jan2025 01:31:40.325] [Server thread/DEBUG] [pointblank/]: 325 - obtained hit result in 0ms
+[21Jan2025 01:31:40.325] [Server thread/DEBUG] [pointblank/]: 325 obtained hit results
+[21Jan2025 01:31:40.325] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2419faa1
+[21Jan2025 01:31:40.327] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.64, y=62.10, z=-435.19] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=208.78, y=84.00, z=-431.11]
+[21Jan2025 01:31:40.327] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.64, y=62.10, z=-435.19] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=186.30, y=79.00, z=-422.95]
+[21Jan2025 01:31:40.327] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.64, y=62.10, z=-435.19] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=196.75, y=83.00, z=-421.23]
+[21Jan2025 01:31:40.327] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.64, y=62.10, z=-435.19] sends hit scan notification to ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.64, y=62.10, z=-435.19]
+[21Jan2025 01:31:40.535] [Server thread/DEBUG] [pointblank/]: 535 handling client fire request
+[21Jan2025 01:31:40.535] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1586050541 to 0
+[21Jan2025 01:31:40.535] [Server thread/DEBUG] [pointblank/]: 535 - obtained hit result in 0ms
+[21Jan2025 01:31:40.535] [Server thread/DEBUG] [pointblank/]: 535 obtained hit results
+[21Jan2025 01:31:40.535] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3f3d0201
+[21Jan2025 01:31:40.536] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.85, y=61.72, z=-434.90] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=208.78, y=84.00, z=-431.11]
+[21Jan2025 01:31:40.536] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.85, y=61.72, z=-434.90] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=186.30, y=79.00, z=-422.95]
+[21Jan2025 01:31:40.536] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.85, y=61.72, z=-434.90] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=196.75, y=83.00, z=-421.23]
+[21Jan2025 01:31:40.536] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.85, y=61.72, z=-434.90] sends hit scan notification to ServerPlayer['Cori28'/75631, l='ServerLevel[world]', x=206.85, y=61.72, z=-434.90]
+[21Jan2025 01:31:50.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 was impaled by Drowned
+[21Jan2025 01:31:51.937] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jan2025 01:31:54.465] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[21Jan2025 01:31:54.521] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[21Jan2025 01:31:56.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21Jan2025 01:31:56.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biviri was slain by Oil Rig Worker
+[21Jan2025 01:31:58.097] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jan2025 01:32:15.510] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[21Jan2025 01:32:15.510] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[21Jan2025 01:32:15.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[21Jan2025 01:32:21.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/91668, l='ServerLevel[world]', x=71.50, y=71.00, z=-116.50]
+[21Jan2025 01:32:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peloteuz12 has made the advancement [Barrel Booty]
+[21Jan2025 01:32:34.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
+[21Jan2025 01:32:52.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
+[21Jan2025 01:32:52.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/83013, l='ServerLevel[world]', x=197.53, y=82.40, z=-423.70] died: Oil Rig Worker burned to death
+[21Jan2025 01:32:54.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/84777, l='ServerLevel[world]', x=191.64, y=78.06, z=-420.48] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:01.892] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/93928, l='ServerLevel[world]', x=267.50, y=71.00, z=-167.50]
+[21Jan2025 01:33:05.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/86129, l='ServerLevel[world]', x=208.51, y=85.00, z=-427.55] died: Oil Rig Worker was slain by peloteuz12
+[21Jan2025 01:33:06.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/83842, l='ServerLevel[world]', x=208.70, y=79.00, z=-423.55] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:09.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[21Jan2025 01:33:15.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/85716, l='ServerLevel[world]', x=199.35, y=78.00, z=-421.51] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:18.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/88920, l='ServerLevel[world]', x=197.70, y=78.00, z=-421.88] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:18.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/88116, l='ServerLevel[world]', x=197.30, y=78.16, z=-419.52] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:20.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/90761, l='ServerLevel[world]', x=195.30, y=78.00, z=-419.22] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:23.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/83012, l='ServerLevel[world]', x=193.42, y=78.44, z=-419.16] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:26.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/91894, l='ServerLevel[world]', x=193.39, y=80.05, z=-420.59] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:27.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jan2025 01:33:27.663] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[21Jan2025 01:33:28.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/86109, l='ServerLevel[world]', x=190.72, y=79.44, z=-418.51] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:29.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/91795, l='ServerLevel[world]', x=193.67, y=78.44, z=-418.76] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:37.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/92687, l='ServerLevel[world]', x=194.94, y=79.12, z=-420.51] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:39.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/89480, l='ServerLevel[world]', x=194.46, y=80.05, z=-423.18] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:39.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/89479, l='ServerLevel[world]', x=194.42, y=79.56, z=-423.68] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:39.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/88182, l='ServerLevel[world]', x=193.18, y=78.06, z=-419.52] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:40.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/90261, l='ServerLevel[world]', x=194.97, y=79.56, z=-419.19] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:49.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/87829, l='ServerLevel[world]', x=194.67, y=79.56, z=-423.52] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:50.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/80768, l='ServerLevel[world]', x=193.70, y=79.31, z=-418.30] died: Oil Rig Worker burned to death
+[21Jan2025 01:33:50.902] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/97085, l='ServerLevel[world]', x=190.50, y=71.00, z=-266.50]
+[21Jan2025 01:33:53.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/93541, l='ServerLevel[world]', x=192.60, y=83.00, z=-421.33] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:33:54.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/91322, l='ServerLevel[world]', x=193.70, y=78.00, z=-423.70] died: Oil Rig Worker burned to death
+[21Jan2025 01:34:01.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/91654, l='ServerLevel[world]', x=195.73, y=84.00, z=-417.34] died: Oil Rig Worker was slain by peloteuz12
+[21Jan2025 01:34:10.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/90165, l='ServerLevel[world]', x=192.25, y=79.79, z=-418.30] died: Oil Rig Worker burned to death
+[21Jan2025 01:34:24.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/88183, l='ServerLevel[world]', x=184.84, y=78.71, z=-421.35] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:34:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 was impaled by Drowned
+[21Jan2025 01:34:26.736] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jan2025 01:34:28.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Jan2025 01:34:28.240] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[21Jan2025 01:34:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 has made the advancement [Convergent Evolution...]
+[21Jan2025 01:34:33.851] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[21Jan2025 01:34:33.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 01:34:33.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 01:34:34.105] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[21Jan2025 01:34:34.106] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[21Jan2025 01:34:34.106] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[21Jan2025 01:34:40.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/96964, l='ServerLevel[world]', x=185.66, y=78.18, z=-418.70] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:34:42.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/97342, l='ServerLevel[world]', x=188.13, y=78.00, z=-420.17] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:34:44.139] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/99154, l='ServerLevel[world]', x=57.50, y=69.00, z=-100.50]
+[21Jan2025 01:34:44.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/87368, l='ServerLevel[world]', x=192.88, y=79.19, z=-418.73] died: Oil Rig Worker burned to death
+[21Jan2025 01:34:46.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[21Jan2025 01:34:50.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/92869, l='ServerLevel[world]', x=185.37, y=78.00, z=-418.31] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:35:04.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
+[21Jan2025 01:35:22.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[21Jan2025 01:35:28.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/100617, l='ServerLevel[world]', x=151.50, y=74.00, z=-167.50]
+[21Jan2025 01:35:31.507] [Server thread/DEBUG] [pointblank/]: 31507 handling client fire request
+[21Jan2025 01:35:31.507] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 6
+[21Jan2025 01:35:31.507] [Server thread/DEBUG] [pointblank/]: 31507 - obtained hit result in 0ms
+[21Jan2025 01:35:31.507] [Server thread/DEBUG] [pointblank/]: 31507 obtained hit results
+[21Jan2025 01:35:31.508] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c1c9984
+[21Jan2025 01:35:31.508] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.47, y=84.00, z=-417.48] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.47, y=84.00, z=-417.48]
+[21Jan2025 01:35:31.508] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.47, y=84.00, z=-417.48] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=193.87, y=83.00, z=-420.75]
+[21Jan2025 01:35:31.508] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.47, y=84.00, z=-417.48] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=220.30, y=72.40, z=-428.69]
+[21Jan2025 01:35:31.771] [Server thread/DEBUG] [pointblank/]: 31771 handling client fire request
+[21Jan2025 01:35:31.771] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 5
+[21Jan2025 01:35:31.772] [Server thread/DEBUG] [pointblank/]: 31772 - obtained hit result in 0ms
+[21Jan2025 01:35:31.772] [Server thread/DEBUG] [pointblank/]: 31772 obtained hit results
+[21Jan2025 01:35:31.772] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b4a72ae
+[21Jan2025 01:35:31.772] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.09, y=84.00, z=-417.46] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.09, y=84.00, z=-417.46]
+[21Jan2025 01:35:31.772] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.09, y=84.00, z=-417.46] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=192.29, y=84.17, z=-420.02]
+[21Jan2025 01:35:31.772] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.09, y=84.00, z=-417.46] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=220.30, y=72.92, z=-428.69]
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: 31919 handling client fire request
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 4
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: 31920 - obtained hit result in 0ms
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: 31920 obtained hit results
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@65f0fa6e
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.18, y=84.00, z=-417.46] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.18, y=84.00, z=-417.46]
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.18, y=84.00, z=-417.46] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=191.80, y=84.25, z=-420.00]
+[21Jan2025 01:35:31.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.18, y=84.00, z=-417.46] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=220.30, y=73.02, z=-428.69]
+[21Jan2025 01:35:32.037] [Server thread/DEBUG] [pointblank/]: 32037 handling client fire request
+[21Jan2025 01:35:32.037] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 3
+[21Jan2025 01:35:32.037] [Server thread/DEBUG] [pointblank/]: 32037 - obtained hit result in 0ms
+[21Jan2025 01:35:32.037] [Server thread/DEBUG] [pointblank/]: 32037 obtained hit results
+[21Jan2025 01:35:32.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f6dedb5
+[21Jan2025 01:35:32.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.46, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.46, y=84.00, z=-417.47]
+[21Jan2025 01:35:32.038] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.46, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=191.06, y=83.80, z=-420.08]
+[21Jan2025 01:35:32.038] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.46, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=220.30, y=73.46, z=-428.68]
+[21Jan2025 01:35:32.205] [Server thread/DEBUG] [pointblank/]: 32205 handling client fire request
+[21Jan2025 01:35:32.205] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 2
+[21Jan2025 01:35:32.205] [Server thread/DEBUG] [pointblank/]: 32205 - obtained hit result in 0ms
+[21Jan2025 01:35:32.205] [Server thread/DEBUG] [pointblank/]: 32205 obtained hit results
+[21Jan2025 01:35:32.205] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52ac1c22
+[21Jan2025 01:35:32.206] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.51, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.51, y=84.00, z=-417.47]
+[21Jan2025 01:35:32.206] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.51, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=190.33, y=83.00, z=-420.27]
+[21Jan2025 01:35:32.206] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.51, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=220.30, y=73.82, z=-428.67]
+[21Jan2025 01:35:32.313] [Server thread/DEBUG] [pointblank/]: 32313 handling client fire request
+[21Jan2025 01:35:32.314] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 1
+[21Jan2025 01:35:32.314] [Server thread/DEBUG] [pointblank/]: 32314 - obtained hit result in 0ms
+[21Jan2025 01:35:32.314] [Server thread/DEBUG] [pointblank/]: 32314 obtained hit results
+[21Jan2025 01:35:32.314] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21cc01aa
+[21Jan2025 01:35:32.314] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.61, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.61, y=84.00, z=-417.47]
+[21Jan2025 01:35:32.314] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.61, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=189.67, y=83.00, z=-420.32]
+[21Jan2025 01:35:32.314] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.61, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=220.30, y=74.08, z=-428.67]
+[21Jan2025 01:35:32.420] [Server thread/DEBUG] [pointblank/]: 32420 handling client fire request
+[21Jan2025 01:35:32.421] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 0
+[21Jan2025 01:35:32.421] [Server thread/DEBUG] [pointblank/]: 32421 - obtained hit result in 0ms
+[21Jan2025 01:35:32.421] [Server thread/DEBUG] [pointblank/]: 32421 obtained hit results
+[21Jan2025 01:35:32.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45cfb0ff
+[21Jan2025 01:35:32.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.89, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.89, y=84.00, z=-417.47]
+[21Jan2025 01:35:32.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.89, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=188.80, y=83.00, z=-420.24]
+[21Jan2025 01:35:32.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=184.89, y=84.00, z=-417.47] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=220.30, y=74.49, z=-428.66]
+[21Jan2025 01:35:33.000] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904086175 to 7
+[21Jan2025 01:35:34.276] [Server thread/DEBUG] [pointblank/]: 34276 handling client fire request
+[21Jan2025 01:35:34.276] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 312211282 to 3
+[21Jan2025 01:35:34.276] [Server thread/DEBUG] [pointblank/]: 34276 - obtained hit result in 0ms
+[21Jan2025 01:35:34.277] [Server thread/DEBUG] [pointblank/]: 34277 obtained hit results
+[21Jan2025 01:35:34.277] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@444c6c79
+[21Jan2025 01:35:34.277] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=182.76, y=84.00, z=-420.48]
+[21Jan2025 01:35:34.277] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60]
+[21Jan2025 01:35:34.277] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=222.50, y=74.30, z=-428.39]
+[21Jan2025 01:35:34.421] [Server thread/DEBUG] [pointblank/]: 34421 handling client fire request
+[21Jan2025 01:35:34.421] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 312211282 to 2
+[21Jan2025 01:35:34.421] [Server thread/DEBUG] [pointblank/]: 34421 - obtained hit result in 0ms
+[21Jan2025 01:35:34.421] [Server thread/DEBUG] [pointblank/]: 34421 obtained hit results
+[21Jan2025 01:35:34.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b13aea
+[21Jan2025 01:35:34.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/91655, l='ServerLevel[world]', x=183.94, y=84.00, z=-417.72] died: Oil Rig Worker was slain by _MrCuack_
+[21Jan2025 01:35:34.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=182.70, y=84.00, z=-420.58]
+[21Jan2025 01:35:34.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60]
+[21Jan2025 01:35:34.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.59, y=84.00, z=-419.60] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=223.22, y=73.87, z=-428.36]
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: 34589 handling client fire request
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 312211282 to 1
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: 34589 - obtained hit result in 0ms
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: 34589 obtained hit results
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@13cacf87
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.80, y=84.00, z=-419.46] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=182.70, y=84.00, z=-420.59]
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.80, y=84.00, z=-419.46] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.80, y=84.00, z=-419.46]
+[21Jan2025 01:35:34.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=184.80, y=84.00, z=-419.46] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=223.92, y=72.77, z=-428.32]
+[21Jan2025 01:35:34.739] [Server thread/DEBUG] [pointblank/]: 34739 handling client fire request
+[21Jan2025 01:35:34.739] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 312211282 to 0
+[21Jan2025 01:35:34.739] [Server thread/DEBUG] [pointblank/]: 34739 - obtained hit result in 0ms
+[21Jan2025 01:35:34.739] [Server thread/DEBUG] [pointblank/]: 34739 obtained hit results
+[21Jan2025 01:35:34.740] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46679c1a
+[21Jan2025 01:35:34.740] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.29, y=84.00, z=-419.18] sends hit scan notification to ServerPlayer['peloteuz12'/993, l='ServerLevel[world]', x=182.61, y=84.00, z=-421.01]
+[21Jan2025 01:35:34.740] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.29, y=84.00, z=-419.18] sends hit scan notification to ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.29, y=84.00, z=-419.18]
+[21Jan2025 01:35:34.740] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/24903, l='ServerLevel[world]', x=185.29, y=84.00, z=-419.18] sends hit scan notification to ServerPlayer['biviri'/60535, l='ServerLevel[world]', x=224.82, y=70.34, z=-428.17]
+[21Jan2025 01:35:40.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[21Jan2025 01:35:47.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/89594, l='ServerLevel[world]', x=185.30, y=79.00, z=-420.30] died: Oil Rig Worker discovered the floor was lava
+[21Jan2025 01:35:53.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/84830, l='ServerLevel[world]', x=201.43, y=78.24, z=-422.76] died: Oil Rig Worker burned to death
+[21Jan2025 01:35:57.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[21Jan2025 01:36:02.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/92799, l='ServerLevel[world]', x=196.70, y=79.02, z=-421.50] died: Oil Rig Worker burned to death
+[21Jan2025 01:36:05.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/98262, l='ServerLevel[world]', x=200.28, y=79.77, z=-422.90] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:06.944] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[21Jan2025 01:36:06.944] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[21Jan2025 01:36:07.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/97469, l='ServerLevel[world]', x=199.30, y=78.88, z=-422.93] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:09.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/99882, l='ServerLevel[world]', x=199.69, y=78.00, z=-422.37] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:10.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/95905, l='ServerLevel[world]', x=199.53, y=79.29, z=-423.64] died: Oil Rig Worker burned to death
+[21Jan2025 01:36:13.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/97210, l='ServerLevel[world]', x=201.70, y=78.99, z=-421.46] died: Oil Rig Worker burned to death
+[21Jan2025 01:36:13.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/87236, l='ServerLevel[world]', x=201.70, y=78.00, z=-420.75] died: Oil Rig Worker burned to death
+[21Jan2025 01:36:14.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/97809, l='ServerLevel[world]', x=200.27, y=79.56, z=-423.70] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:15.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[21Jan2025 01:36:16.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/88574, l='ServerLevel[world]', x=199.80, y=79.80, z=-423.70] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:17.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/97661, l='ServerLevel[world]', x=199.58, y=78.42, z=-422.76] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:19.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/94563, l='ServerLevel[world]', x=199.44, y=78.88, z=-423.43] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:23.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/100084, l='ServerLevel[world]', x=201.57, y=78.00, z=-421.91] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:27.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oil Rig Worker'/97933, l='ServerLevel[world]', x=200.50, y=78.00, z=-420.50] died: Oil Rig Worker tried to swim in lava
+[21Jan2025 01:36:27.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biviri was slain by Drowned
+[21Jan2025 01:36:29.148] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jan2025 01:36:33.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Jan2025 01:36:34.721] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/103382, l='ServerLevel[world]', x=191.50, y=71.00, z=-264.50]
