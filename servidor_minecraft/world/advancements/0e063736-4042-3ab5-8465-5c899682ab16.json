@@ -72,6 +72,7 @@
       "minecraft:taiga": "2025-01-21 00:29:48 +0000",
       "minecraft:beach": "2025-01-21 01:05:17 +0000",
       "minecraft:river": "2025-01-21 00:49:47 +0000",
+      "minecraft:dripstone_caves": "2025-01-24 02:41:44 +0000",
       "minecraft:cold_ocean": "2025-01-21 01:05:33 +0000",
       "minecraft:forest": "2025-01-21 00:34:45 +0000",
       "minecraft:deep_cold_ocean": "2025-01-24 02:20:43 +0000",
@@ -4114,6 +4115,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-01-24 01:50:38 +0000"
@@ -4126,6 +4133,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/cobbled_deepslate_layer": {
     "criteria": {
       "has_block": "2025-01-24 02:13:53 +0000"
@@ -4135,6 +4148,12 @@
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-01-24 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-24 03:00:53 +0000"
     },
     "done": true
   },
@@ -4162,6 +4181,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-24 01:45:08 +0000"
@@ -4186,6 +4211,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-01-24 01:49:56 +0000"
@@ -4201,6 +4232,12 @@
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-01-24 01:50:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
     },
     "done": true
   },
@@ -4231,6 +4268,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-01-24 01:56:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
     },
     "done": true
   },
@@ -4276,6 +4319,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-24 01:50:38 +0000"
@@ -4318,6 +4367,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "the_deep_void:shining_darkness_in_deepest_parts": {
     "criteria": {
       "shining_darkness_in_deepest_parts_0": "2025-01-24 02:33:17 +0000"
@@ -4327,6 +4382,12 @@
   "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-24 01:56:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
     },
     "done": true
   },
@@ -4360,6 +4421,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 02:13:53 +0000"
@@ -4387,6 +4460,12 @@
   "the_deep_void:is_it_amethyst": {
     "criteria": {
       "is_it_amethyst_0": "2025-01-24 02:32:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
     },
     "done": true
   },
@@ -4449,6 +4528,12 @@
       "has_planks": "2025-01-24 01:50:38 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-24 02:54:44 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
@@ -4546,6 +4631,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-01-24 01:56:24 +0000"
@@ -4579,6 +4670,18 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-01-24 01:56:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-24 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
     },
     "done": true
   },
@@ -4762,6 +4865,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:pieceofdebris": {
+    "criteria": {
+      "pieceofdebris_0": "2025-01-24 02:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 02:13:53 +0000"
@@ -4882,9 +4997,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-01-24 01:56:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
     },
     "done": true
   },
@@ -4942,9 +5069,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-24 01:56:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-24 02:39:46 +0000"
     },
     "done": true
   },

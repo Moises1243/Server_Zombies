@@ -5867,6 +5867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-24 02:57:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-01-24 01:39:05 +0000"
@@ -5924,6 +5930,12 @@
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-24 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-24 02:57:13 +0000"
     },
     "done": true
   },
@@ -6620,6 +6632,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-24 02:57:13 +0000"
     },
     "done": true
   },

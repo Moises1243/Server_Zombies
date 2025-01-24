@@ -76,6 +76,7 @@
       "minecraft:river": "2025-01-21 02:03:15 +0000",
       "minecraft:cold_ocean": "2025-01-21 01:07:35 +0000",
       "minecraft:forest": "2025-01-21 23:47:08 +0000",
+      "minecraft:lush_caves": "2025-01-24 02:49:04 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 01:51:03 +0000",
       "minecraft:ocean": "2025-01-22 00:06:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-22 00:59:28 +0000",
@@ -6601,6 +6602,12 @@
     },
     "done": true
   },
+  "overworld_netherite_ore:pieceofdebris": {
+    "criteria": {
+      "pieceofdebris_0": "2025-01-24 02:59:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/blue_bricks": {
     "criteria": {
       "has_item": "2025-01-24 02:25:49 +0000"
@@ -6688,6 +6695,12 @@
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:the_big_one": {
+    "criteria": {
+      "the_big_one_0": "2025-01-24 02:40:01 +0000"
     },
     "done": true
   },
