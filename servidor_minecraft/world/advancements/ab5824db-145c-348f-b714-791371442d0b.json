@@ -4886,6 +4886,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-01-24 02:12:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 01:37:36 +0000"
@@ -4964,6 +4970,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-24 02:12:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 01:37:36 +0000"
@@ -4973,6 +4985,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 01:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-24 02:12:55 +0000"
     },
     "done": true
   },
@@ -5186,6 +5204,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-01-24 02:10:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 01:37:36 +0000"
@@ -5216,9 +5240,27 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-24 02:12:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-01-24 02:12:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 01:37:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-24 02:12:55 +0000"
     },
     "done": true
   },

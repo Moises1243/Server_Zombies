@@ -5998,6 +5998,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-24 02:15:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-24 02:03:38 +0000"
@@ -6037,6 +6043,12 @@
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-01-24 01:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-24 02:15:13 +0000"
     },
     "done": true
   },
@@ -6157,6 +6169,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-01-24 02:15:02 +0000"
     },
     "done": true
   },
@@ -6529,6 +6547,18 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-24 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-24 02:15:13 +0000"
     },
     "done": true
   },

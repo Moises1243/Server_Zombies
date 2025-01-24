@@ -4807,6 +4807,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-01-24 02:17:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-24 02:02:17 +0000"
@@ -4828,6 +4834,12 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-01-24 02:02:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-01-24 02:17:42 +0000"
     },
     "done": true
   },
