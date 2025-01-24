@@ -1478,7 +1478,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-01-21 00:28:36 +0000",
-      "minecraft:drowned": "2025-01-21 00:54:39 +0000"
+      "minecraft:drowned": "2025-01-21 00:54:39 +0000",
+      "minecraft:zombie_villager": "2025-01-24 23:39:55 +0000"
     },
     "done": false
   },
@@ -6695,6 +6696,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-24 23:33:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-24 23:30:27 +0000"
@@ -6724,6 +6731,12 @@
       "has_beetroot": "2025-01-24 23:30:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-24 23:33:15 +0000"
+    },
+    "done": false
   },
   "immersive_weathering:immersive_weathering/weeds": {
     "criteria": {

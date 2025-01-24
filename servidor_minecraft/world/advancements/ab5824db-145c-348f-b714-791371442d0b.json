@@ -74,6 +74,7 @@
       "minecraft:windswept_hills": "2025-01-22 00:04:36 +0000",
       "minecraft:beach": "2025-01-21 23:04:57 +0000",
       "minecraft:river": "2025-01-21 23:43:36 +0000",
+      "minecraft:dripstone_caves": "2025-01-24 23:38:47 +0000",
       "minecraft:cold_ocean": "2025-01-21 23:13:48 +0000",
       "minecraft:forest": "2025-01-21 23:46:06 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 23:25:26 +0000",
@@ -5062,7 +5063,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-01-24 01:45:05 +0000"
+      "dirt": "2025-01-24 01:45:05 +0000",
+      "silt": "2025-01-24 23:38:38 +0000"
     },
     "done": false
   },
@@ -6203,6 +6205,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-24 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-24 23:36:14 +0000"
     },
     "done": true
   },
