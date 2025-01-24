@@ -4807,6 +4807,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-01-24 02:24:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-01-24 02:17:42 +0000"
@@ -4825,6 +4831,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-24 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-24 02:21:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-24 02:02:17 +0000"
@@ -4837,9 +4855,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-24 02:21:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2025-01-24 02:17:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-24 02:21:42 +0000"
     },
     "done": true
   },

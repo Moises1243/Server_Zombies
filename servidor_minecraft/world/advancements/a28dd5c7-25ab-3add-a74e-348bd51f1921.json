@@ -2625,6 +2625,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-21 01:23:51 +0000",
+      "cooked_mutton": "2025-01-24 02:21:48 +0000",
       "cooked_beef": "2025-01-21 00:54:16 +0000",
       "bread": "2025-01-21 00:31:44 +0000",
       "rotten_flesh": "2025-01-21 23:29:30 +0000"
@@ -5830,6 +5831,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-01-24 02:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-24 02:03:53 +0000"
@@ -5875,6 +5882,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-24 02:21:35 +0000"
     },
     "done": true
   },
@@ -5959,6 +5972,12 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-24 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-24 02:27:10 +0000"
     },
     "done": true
   },
@@ -6070,9 +6089,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-24 02:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-24 02:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-24 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-24 02:26:45 +0000"
     },
     "done": true
   },
@@ -6187,6 +6224,24 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-24 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cushion": {
+    "criteria": {
+      "has_yellow_cushion": "2025-01-24 02:27:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-24 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_sheet": {
+    "criteria": {
+      "has_yellow_sheet": "2025-01-24 02:27:10 +0000"
     },
     "done": true
   },
@@ -6394,6 +6449,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-24 02:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-24 01:56:51 +0000"
@@ -6445,6 +6506,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-01-24 02:01:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-24 02:26:45 +0000"
     },
     "done": true
   },
@@ -6526,6 +6593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-24 02:27:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-24 02:03:53 +0000"
@@ -6550,15 +6623,33 @@
     },
     "done": true
   },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-24 02:27:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-01-24 02:15:13 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-01-24 02:23:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-01-24 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-24 02:27:10 +0000"
     },
     "done": true
   },

@@ -74,6 +74,7 @@
       "minecraft:river": "2025-01-21 00:49:47 +0000",
       "minecraft:cold_ocean": "2025-01-21 01:05:33 +0000",
       "minecraft:forest": "2025-01-21 00:34:45 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-24 02:20:43 +0000",
       "minecraft:plains": "2025-01-21 00:50:06 +0000"
     },
     "done": false
@@ -4161,6 +4162,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-24 02:21:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-01-24 01:50:38 +0000"
@@ -4317,6 +4324,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-24 02:21:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-01-24 01:56:24 +0000"
@@ -4446,6 +4459,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 02:13:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-24 02:21:00 +0000"
     },
     "done": true
   },
