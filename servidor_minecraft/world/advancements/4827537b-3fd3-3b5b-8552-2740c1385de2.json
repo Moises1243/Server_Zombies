@@ -5140,6 +5140,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-01-22 01:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-22 01:25:09 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2025-01-22 01:25:12 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2025-01-22 01:25:12 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-01-22 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-22 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2025-01-22 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2025-01-22 01:36:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-22 01:37:03 +0000"
@@ -5161,12 +5227,6 @@
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2025-01-22 01:37:03 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_palisade": {
-    "criteria": {
-      "has_log": "2025-01-22 01:36:52 +0000"
     },
     "done": true
   },
@@ -5200,12 +5260,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sweet_berries": "2025-01-22 02:07:42 +0000"
-    },
-    "done": false
-  },
   "bbb:recipes/birch_ladder": {
     "criteria": {
       "has_planks": "2025-01-22 01:37:03 +0000"
@@ -5221,12 +5275,6 @@
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-01-22 01:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-01-22 01:36:52 +0000"
     },
     "done": true
   },
@@ -5254,12 +5302,6 @@
     },
     "done": true
   },
-  "table_top_craft:root": {
-    "criteria": {
-      "get_chess_piece": "2025-01-22 01:25:12 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/birch_support": {
     "criteria": {
       "has_block": "2025-01-22 01:37:03 +0000"
@@ -5281,30 +5323,6 @@
   "bbb:recipes/birch_trim": {
     "criteria": {
       "has_block": "2025-01-22 01:37:03 +0000"
-    },
-    "done": true
-  },
-  "table_top_craft:the_hoarding_begins": {
-    "criteria": {
-      "ChessPieceFigure": "2025-01-22 01:25:12 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_pallet": {
-    "criteria": {
-      "has_planks": "2025-01-22 01:36:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-01-22 01:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-22 01:25:09 +0000"
     },
     "done": true
   },
@@ -5362,12 +5380,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-01-22 01:36:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-22 01:37:03 +0000"
@@ -5410,27 +5422,9 @@
     },
     "done": true
   },
-  "bbb:recipes/birch_beam": {
-    "criteria": {
-      "has_log": "2025-01-22 01:36:52 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_frame": {
-    "criteria": {
-      "has_planks": "2025-01-22 01:36:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-01-22 01:37:03 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_wall": {
-    "criteria": {
-      "has_logs": "2025-01-22 01:36:52 +0000"
     },
     "done": true
   },
@@ -5467,6 +5461,24 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-22 01:37:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-01-22 02:07:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-24 01:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-24 01:46:51 +0000"
     },
     "done": true
   },
