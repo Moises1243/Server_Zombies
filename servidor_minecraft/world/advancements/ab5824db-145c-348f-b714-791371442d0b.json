@@ -129,6 +129,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-24 01:51:35 +0000",
       "sweet_berries": "2025-01-21 23:05:00 +0000",
       "cooked_beef": "2025-01-24 01:43:03 +0000",
       "beef": "2025-01-21 23:19:32 +0000",
@@ -4885,6 +4886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-24 01:50:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 01:37:36 +0000"
@@ -4894,6 +4901,18 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 01:37:36 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-01-24 01:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 01:50:05 +0000"
     },
     "done": true
   },
