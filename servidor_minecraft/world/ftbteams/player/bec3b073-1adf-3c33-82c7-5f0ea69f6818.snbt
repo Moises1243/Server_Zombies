@@ -1,0 +1,17 @@
+{
+	id: "bec3b073-1adf-3c33-82c7-5f0ea69f6818"
+	type: "player"
+	player_name: "oroz_09"
+	ranks: {
+		bec3b073-1adf-3c33-82c7-5f0ea69f6818: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "oroz_09"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
