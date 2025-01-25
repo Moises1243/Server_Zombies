@@ -6415,6 +6415,12 @@
     },
     "done": true
   },
+  "bbb:recipes/acacia_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/crab_meat_from_smoking": {
     "criteria": {
       "crab_meat": "2025-01-25 23:02:55 +0000"
@@ -6541,6 +6547,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-01-25 22:30:13 +0000"
@@ -6604,6 +6616,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-25 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
     },
     "done": true
   },
@@ -6703,6 +6721,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-01-25 23:02:06 +0000"
@@ -6745,6 +6769,24 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-01-25 23:02:06 +0000"
@@ -6784,6 +6826,12 @@
   "bbb:recipes/spruce_beam": {
     "criteria": {
       "has_log": "2025-01-25 22:30:04 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/crimson_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
     },
     "done": true
   },
@@ -6853,6 +6901,12 @@
     },
     "done": true
   },
+  "bbb:recipes/spruce_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
     "criteria": {
       "has_oak_planks": "2025-01-25 23:02:06 +0000"
@@ -6877,9 +6931,21 @@
     },
     "done": true
   },
+  "bbb:recipes/jungle_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-01-25 22:51:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-01-25 23:09:46 +0000"
     },
     "done": true
   },
@@ -6898,6 +6964,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-25 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/warped_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
     },
     "done": true
   },
@@ -6949,9 +7021,21 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-25 23:01:25 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-25 23:08:28 +0000"
     },
     "done": true
   },

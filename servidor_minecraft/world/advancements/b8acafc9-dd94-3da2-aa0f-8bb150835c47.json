@@ -71,20 +71,24 @@
       "minecraft:old_growth_pine_taiga": "2025-01-21 00:49:04 +0000",
       "minecraft:taiga": "2025-01-21 00:51:31 +0000",
       "minecraft:deep_ocean": "2025-01-22 00:06:06 +0000",
+      "minecraft:frozen_river": "2025-01-25 23:07:41 +0000",
       "minecraft:birch_forest": "2025-01-25 00:51:48 +0000",
       "minecraft:windswept_hills": "2025-01-21 23:38:08 +0000",
       "minecraft:beach": "2025-01-21 01:05:06 +0000",
       "minecraft:dark_forest": "2025-01-25 00:42:48 +0000",
       "minecraft:river": "2025-01-21 02:03:15 +0000",
       "minecraft:lukewarm_ocean": "2025-01-25 00:41:06 +0000",
+      "minecraft:snowy_plains": "2025-01-25 23:05:27 +0000",
       "minecraft:dripstone_caves": "2025-01-25 22:59:17 +0000",
       "minecraft:cold_ocean": "2025-01-21 01:07:35 +0000",
       "minecraft:forest": "2025-01-21 23:47:08 +0000",
       "minecraft:lush_caves": "2025-01-24 02:49:04 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 01:51:03 +0000",
+      "minecraft:frozen_ocean": "2025-01-25 23:08:14 +0000",
       "minecraft:ocean": "2025-01-22 00:06:43 +0000",
       "minecraft:jungle": "2025-01-25 22:28:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-22 00:59:28 +0000",
+      "minecraft:snowy_beach": "2025-01-25 23:07:48 +0000",
       "minecraft:windswept_savanna": "2025-01-24 02:16:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-22 00:22:12 +0000",
       "minecraft:plains": "2025-01-21 02:03:46 +0000"
@@ -7027,6 +7031,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_fence": {
+    "criteria": {
+      "has_block": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-01-25 22:39:22 +0000"
@@ -7036,6 +7058,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-25 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-01-25 23:11:02 +0000"
     },
     "done": true
   },
@@ -7057,15 +7085,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-01-25 22:36:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-25 22:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
     },
     "done": true
   },
@@ -7123,6 +7169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-01-25 22:41:29 +0000"
@@ -7132,6 +7184,12 @@
   "copycats:recipes/misc/crafting/copycat_iron_door": {
     "criteria": {
       "has_item": "2025-01-25 22:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
     },
     "done": true
   },
@@ -7225,9 +7283,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-25 23:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-25 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-25 23:09:24 +0000"
     },
     "done": true
   },
@@ -7240,6 +7310,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-25 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-25 23:07:17 +0000"
     },
     "done": true
   },
@@ -7267,9 +7343,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/deepslate_tile_layer": {
     "criteria": {
       "has_block": "2025-01-25 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_column": {
+    "criteria": {
+      "has_block": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
     },
     "done": true
   },
@@ -7285,6 +7379,18 @@
     },
     "done": true
   },
+  "bbb:recipes/sandstone_moulding": {
+    "criteria": {
+      "has_block": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_layer": {
+    "criteria": {
+      "has_block": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/waxed_exposed_plate_iron": {
     "criteria": {
       "has_copper_block": "2025-01-25 22:33:32 +0000"
@@ -7297,9 +7403,27 @@
     },
     "done": true
   },
+  "bbb:recipes/sandstone_urn": {
+    "criteria": {
+      "has_block": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/quartz_fence": {
     "criteria": {
       "has_block": "2025-01-25 22:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-25 23:10:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-01-25 23:11:02 +0000"
     },
     "done": true
   },
@@ -7315,6 +7439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-25 23:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-25 22:36:56 +0000"
@@ -7327,6 +7457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-25 22:41:29 +0000"
@@ -7336,6 +7472,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-25 22:36:56 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-01-25 23:10:55 +0000"
     },
     "done": true
   },
@@ -7372,6 +7514,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-25 22:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-25 23:11:02 +0000"
     },
     "done": true
   },
