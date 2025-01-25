@@ -70,11 +70,14 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-21 22:58:47 +0000",
       "minecraft:taiga": "2025-01-21 23:08:57 +0000",
+      "minecraft:deep_ocean": "2025-01-25 00:38:45 +0000",
       "minecraft:beach": "2025-01-21 23:07:05 +0000",
       "minecraft:river": "2025-01-21 23:07:16 +0000",
       "minecraft:cold_ocean": "2025-01-21 23:11:00 +0000",
       "minecraft:forest": "2025-01-25 00:01:53 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 23:24:54 +0000",
+      "minecraft:ocean": "2025-01-25 00:38:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-25 00:39:07 +0000",
       "minecraft:plains": "2025-01-21 23:29:35 +0000"
     },
     "done": false
@@ -3851,6 +3854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_slab": "2025-01-25 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-24 23:18:36 +0000"
@@ -4487,6 +4496,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-01-25 00:37:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-01-24 23:52:44 +0000"
@@ -4520,6 +4535,12 @@
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-01-24 23:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-01-25 00:35:47 +0000"
     },
     "done": true
   },
@@ -4568,6 +4589,12 @@
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-01-25 00:32:38 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/smooth_stone_layer": {
+    "criteria": {
+      "has_block": "2025-01-25 00:37:52 +0000"
     },
     "done": true
   },
@@ -4691,6 +4718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-25 00:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-01-25 00:32:50 +0000"
@@ -4775,6 +4808,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-25 00:39:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-25 00:09:41 +0000"
@@ -4796,6 +4835,12 @@
   "ecologics:recipes/ecologics/pot": {
     "criteria": {
       "has_terracotta": "2025-01-25 00:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-25 00:39:46 +0000"
     },
     "done": true
   },
@@ -5099,9 +5144,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-25 00:37:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_stone": {
+    "criteria": {
+      "has_block": "2025-01-25 00:37:52 +0000"
     },
     "done": true
   },
@@ -5138,6 +5195,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-24 23:16:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-01-25 00:41:05 +0000"
     },
     "done": true
   },
@@ -6045,6 +6108,18 @@
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-01-25 00:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-25 00:37:52 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-01-25 00:40:11 +0000"
     },
     "done": true
   },

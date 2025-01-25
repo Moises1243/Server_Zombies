@@ -6733,6 +6733,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/moss": {
+    "criteria": {
+      "apple": "2025-01-25 00:37:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-01-24 23:28:34 +0000"
