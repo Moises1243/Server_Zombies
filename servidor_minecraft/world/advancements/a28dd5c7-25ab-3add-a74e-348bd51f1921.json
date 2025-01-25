@@ -78,6 +78,7 @@
       "minecraft:forest": "2025-01-21 00:49:11 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 01:07:06 +0000",
       "minecraft:ocean": "2025-01-21 23:08:26 +0000",
+      "minecraft:windswept_savanna": "2025-01-25 00:31:43 +0000",
       "minecraft:flower_forest": "2025-01-21 23:53:01 +0000",
       "minecraft:plains": "2025-01-21 02:04:01 +0000"
     },
@@ -6746,6 +6747,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-01-25 00:32:09 +0000",
       "minecraft:cow": "2025-01-24 23:33:15 +0000"
     },
     "done": false

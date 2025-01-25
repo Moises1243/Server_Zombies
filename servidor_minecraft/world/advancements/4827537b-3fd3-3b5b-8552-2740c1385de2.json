@@ -222,6 +222,7 @@
       "apple": "2025-01-22 01:25:29 +0000",
       "potato": "2025-01-21 01:36:05 +0000",
       "bread": "2025-01-21 00:59:18 +0000",
+      "golden_apple": "2025-01-25 00:33:26 +0000",
       "rotten_flesh": "2025-01-22 01:35:01 +0000",
       "carrot": "2025-01-21 01:36:14 +0000"
     },
@@ -5979,6 +5980,90 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_andesite_layer": {
+    "criteria": {
+      "has_block": "2025-01-24 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-24 23:11:15 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/smooth_stone_layer": {
+    "criteria": {
+      "has_block": "2025-01-24 23:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 23:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 23:12:15 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_stone": {
+    "criteria": {
+      "has_block": "2025-01-24 23:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 23:12:15 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-01-24 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-01-24 23:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-24 23:14:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-01-24 23:15:25 +0000"
@@ -5991,45 +6076,15 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-01-24 23:44:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-01-25 00:08:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-24 23:15:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-01-24 23:15:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2025-01-24 23:14:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
     },
     "done": true
   },
@@ -6051,12 +6106,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-01-25 00:08:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-24 23:15:25 +0000"
@@ -6066,12 +6115,6 @@
   "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-01-24 23:15:25 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/smooth_stone_layer": {
-    "criteria": {
-      "has_block": "2025-01-24 23:12:15 +0000"
     },
     "done": true
   },
@@ -6087,27 +6130,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-24 23:12:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-01-24 23:15:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-01-24 23:11:15 +0000"
     },
     "done": true
   },
@@ -6117,39 +6142,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-01-25 00:08:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-24 23:15:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-24 23:12:15 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/polished_stone": {
-    "criteria": {
-      "has_block": "2025-01-24 23:12:15 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/polished_andesite_layer": {
-    "criteria": {
-      "has_block": "2025-01-24 22:58:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-01-24 23:21:44 +0000"
     },
     "done": true
   },
@@ -6171,9 +6166,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
-      "has_redstone_torch": "2025-01-24 23:14:36 +0000"
+      "has_sign": "2025-01-24 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-24 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-24 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-24 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-24 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-24 23:21:44 +0000"
     },
     "done": true
   },
@@ -6189,57 +6214,57 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-01-24 23:15:25 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
-    "criteria": {
-      "has_item": "2025-01-24 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-01-24 23:15:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-01-24 23:32:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_sign": "2025-01-24 23:15:25 +0000"
+      "diamond_chestplate": "2025-01-24 23:44:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_smooth_stone": "2025-01-24 23:12:15 +0000"
+      "has_item": "2025-01-25 00:08:07 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_sign": "2025-01-24 23:15:25 +0000"
+      "has_item": "2025-01-25 00:08:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
-      "has_polished_andesite": "2025-01-24 22:58:17 +0000"
+      "has_item": "2025-01-25 00:08:07 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
-      "has_sign": "2025-01-24 23:15:25 +0000"
+      "has_slime_ball": "2025-01-25 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-25 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-25 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-25 00:31:51 +0000"
     },
     "done": true
   },
