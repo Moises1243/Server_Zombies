@@ -3731,6 +3731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-24 23:49:23 +0000"
@@ -3863,6 +3869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 23:49:23 +0000"
@@ -3944,6 +3956,12 @@
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
     },
     "done": true
   },
@@ -4229,6 +4247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-24 23:17:15 +0000"
@@ -4262,6 +4286,12 @@
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-01-24 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-25 00:15:38 +0000"
     },
     "done": true
   },
@@ -4460,6 +4490,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
     },
     "done": true
   },
@@ -4736,6 +4772,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
     },
     "done": true
   },
@@ -5021,6 +5063,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-01-25 00:15:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-24 23:49:23 +0000"
@@ -5154,6 +5202,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-25 00:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-24 23:20:33 +0000"
@@ -5208,6 +5262,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-24 23:16:52 +0000"
@@ -5250,6 +5310,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-25 00:15:38 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_stairs": {
     "criteria": {
       "has_planks": "2025-01-25 00:06:11 +0000"
@@ -5277,6 +5343,12 @@
   "bbb:recipes/sandstone_column": {
     "criteria": {
       "has_block": "2025-01-24 23:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
     },
     "done": true
   },
@@ -5445,6 +5517,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-24 23:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
     },
     "done": true
   },
@@ -5721,6 +5799,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2025-01-25 00:16:06 +0000"
     },
     "done": true
   },
