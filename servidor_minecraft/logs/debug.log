@@ -19879,3 +19879,711 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jan2025 23:55:00.869] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1c21a4b6
 [24Jan2025 23:55:00.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.43, y=66.00, z=-981.40] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=469.52, y=69.06, z=-984.16]
 [24Jan2025 23:55:00.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.43, y=66.00, z=-981.40] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.43, y=66.00, z=-981.40]
+[24Jan2025 23:55:04.670] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[24Jan2025 23:55:04.670] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[24Jan2025 23:55:04.709] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[24Jan2025 23:55:25.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9776ms or 195 ticks behind
+[24Jan2025 23:55:49.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9092ms or 181 ticks behind
+[24Jan2025 23:56:13.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9663ms or 193 ticks behind
+[24Jan2025 23:56:34.682] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[24Jan2025 23:56:35.162] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[24Jan2025 23:56:35.162] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[24Jan2025 23:56:35.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 23:56:35.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 23:56:39.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10690ms or 213 ticks behind
+[24Jan2025 23:57:04.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9988ms or 199 ticks behind
+[24Jan2025 23:57:15.379] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "peloteuz12" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=462, y=64, z=-985}] too quickly!
+[24Jan2025 23:57:16.915] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "peloteuz12" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=462, y=64, z=-985}] too quickly!
+[24Jan2025 23:57:29.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9631ms or 192 ticks behind
+[24Jan2025 23:57:50.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6714ms or 134 ticks behind
+[24Jan2025 23:57:50.751] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[24Jan2025 23:57:50.751] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[24Jan2025 23:58:11.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5664ms or 113 ticks behind
+[24Jan2025 23:58:29.079] [Server thread/DEBUG] [pointblank/]: 9079 handling client fire request
+[24Jan2025 23:58:29.080] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 24
+[24Jan2025 23:58:29.080] [Server thread/DEBUG] [pointblank/]: 9080 - obtained hit result in 0ms
+[24Jan2025 23:58:29.080] [Server thread/DEBUG] [pointblank/]: 9080 obtained hit results
+[24Jan2025 23:58:29.080] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45f2e8f5
+[24Jan2025 23:58:29.081] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=464.01, y=64.06, z=-985.44] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=397.19, y=63.47, z=-980.11]
+[24Jan2025 23:58:29.081] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=464.01, y=64.06, z=-985.44] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=468.42, y=63.00, z=-992.92]
+[24Jan2025 23:58:29.081] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=464.01, y=64.06, z=-985.44] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=464.01, y=64.06, z=-985.44]
+[24Jan2025 23:58:29.081] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=464.01, y=64.06, z=-985.44] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50]
+[24Jan2025 23:58:33.044] [Server thread/DEBUG] [pointblank/]: 13044 handling client fire request
+[24Jan2025 23:58:33.044] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 24
+[24Jan2025 23:58:33.045] [Server thread/DEBUG] [pointblank/]: 13045 - obtained hit result in 1ms
+[24Jan2025 23:58:33.045] [Server thread/DEBUG] [pointblank/]: 13045 obtained hit results
+[24Jan2025 23:58:33.045] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@77a82689
+[24Jan2025 23:58:33.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/6203, l='ServerLevel[world]', x=470.55, y=64.00, z=-987.50] died, message: 'Arms Dealer was slain by Cori28'
+[24Jan2025 23:58:33.046] [Server thread/DEBUG] [pointblank/]: Creating state f8ee358d-e7c8-493b-b999-2992e6a66e01
+[24Jan2025 23:58:33.048] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=449.57, y=62.33, z=-985.39]
+[24Jan2025 23:58:33.049] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:33.049] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.75, y=64.06, z=-984.40]
+[24Jan2025 23:58:33.049] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50]
+[24Jan2025 23:58:33.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6690ms or 133 ticks behind
+[24Jan2025 23:58:37.461] [Server thread/DEBUG] [pointblank/]: 17461 handling client fire request
+[24Jan2025 23:58:37.461] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 23
+[24Jan2025 23:58:37.461] [Server thread/DEBUG] [pointblank/]: 17461 - obtained hit result in 0ms
+[24Jan2025 23:58:37.461] [Server thread/DEBUG] [pointblank/]: 17461 obtained hit results
+[24Jan2025 23:58:37.461] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@84ed4a2
+[24Jan2025 23:58:37.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.53] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=469.40, y=63.00, z=-990.02]
+[24Jan2025 23:58:37.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.53] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:37.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.53] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.53]
+[24Jan2025 23:58:37.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.53] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50]
+[24Jan2025 23:58:37.656] [Server thread/DEBUG] [pointblank/]: 17656 handling client fire request
+[24Jan2025 23:58:37.656] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 22
+[24Jan2025 23:58:37.656] [Server thread/DEBUG] [pointblank/]: 17656 - obtained hit result in 0ms
+[24Jan2025 23:58:37.656] [Server thread/DEBUG] [pointblank/]: 17656 obtained hit results
+[24Jan2025 23:58:37.656] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6412ac10
+[24Jan2025 23:58:37.656] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.67, y=64.06, z=-985.90] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=468.47, y=64.00, z=-989.44]
+[24Jan2025 23:58:37.656] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.67, y=64.06, z=-985.90] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:37.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.67, y=64.06, z=-985.90] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.67, y=64.06, z=-985.90]
+[24Jan2025 23:58:37.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.67, y=64.06, z=-985.90] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.50, y=63.90, z=-983.50]
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: 17805 handling client fire request
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 21
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: 17805 - obtained hit result in 0ms
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: 17805 obtained hit results
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1334b8d0
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.25, y=64.06, z=-985.41] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.86, y=64.00, z=-989.30]
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.25, y=64.06, z=-985.41] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.25, y=64.06, z=-985.41] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.25, y=64.06, z=-985.41]
+[24Jan2025 23:58:37.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.25, y=64.06, z=-985.41] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.70, y=66.00, z=-983.28]
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: 17935 handling client fire request
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 20
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: 17935 - obtained hit result in 0ms
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: 17935 obtained hit results
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2ca5fd28
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.83, y=64.06, z=-984.91] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.60, y=64.00, z=-989.30]
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.83, y=64.06, z=-984.91] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.83, y=64.06, z=-984.91] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.83, y=64.06, z=-984.91]
+[24Jan2025 23:58:37.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.83, y=64.06, z=-984.91] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.70, y=66.00, z=-983.28]
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: 18061 handling client fire request
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 19
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: 18061 - obtained hit result in 0ms
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: 18061 obtained hit results
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5230d7da
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.72, y=64.06, z=-984.77] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.55, y=64.00, z=-989.30]
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.72, y=64.06, z=-984.77] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.72, y=64.06, z=-984.77] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.72, y=64.06, z=-984.77]
+[24Jan2025 23:58:38.061] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.72, y=64.06, z=-984.77] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.70, y=66.00, z=-983.28]
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: 18213 handling client fire request
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 18
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: 18213 - obtained hit result in 0ms
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: 18213 obtained hit results
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@23b383a0
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.74, y=64.06, z=-984.79] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.79, y=64.00, z=-989.30]
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.74, y=64.06, z=-984.79] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:38.213] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.74, y=64.06, z=-984.79] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.74, y=64.06, z=-984.79]
+[24Jan2025 23:58:38.214] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.74, y=64.06, z=-984.79] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.73, y=65.92, z=-983.21]
+[24Jan2025 23:58:38.349] [Server thread/DEBUG] [pointblank/]: 18349 handling client fire request
+[24Jan2025 23:58:38.349] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 17
+[24Jan2025 23:58:38.349] [Server thread/DEBUG] [pointblank/]: 18349 - obtained hit result in 0ms
+[24Jan2025 23:58:38.349] [Server thread/DEBUG] [pointblank/]: 18349 obtained hit results
+[24Jan2025 23:58:38.349] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15f75d3e
+[24Jan2025 23:58:38.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.10, y=64.06, z=-985.16] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.52, y=64.00, z=-989.30]
+[24Jan2025 23:58:38.350] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.10, y=64.06, z=-985.16] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:38.350] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.10, y=64.06, z=-985.16] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.10, y=64.06, z=-985.16]
+[24Jan2025 23:58:38.350] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.10, y=64.06, z=-985.16] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.85, y=65.23, z=-982.97]
+[24Jan2025 23:58:38.631] [Server thread/DEBUG] [pointblank/]: 18631 handling client fire request
+[24Jan2025 23:58:38.631] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 16
+[24Jan2025 23:58:38.631] [Server thread/DEBUG] [pointblank/]: 18631 - obtained hit result in 0ms
+[24Jan2025 23:58:38.632] [Server thread/DEBUG] [pointblank/]: 18632 obtained hit results
+[24Jan2025 23:58:38.632] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@16b8ae15
+[24Jan2025 23:58:38.632] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.75, y=64.06, z=-985.99] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.30, y=64.00, z=-988.41]
+[24Jan2025 23:58:38.632] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.75, y=64.06, z=-985.99] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:38.632] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.75, y=64.06, z=-985.99] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.75, y=64.06, z=-985.99]
+[24Jan2025 23:58:38.632] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.75, y=64.06, z=-985.99] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=465.10, y=65.13, z=-981.95]
+[24Jan2025 23:58:38.776] [Server thread/DEBUG] [pointblank/]: 18776 handling client fire request
+[24Jan2025 23:58:38.776] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 15
+[24Jan2025 23:58:38.776] [Server thread/DEBUG] [pointblank/]: 18776 - obtained hit result in 0ms
+[24Jan2025 23:58:38.776] [Server thread/DEBUG] [pointblank/]: 18776 obtained hit results
+[24Jan2025 23:58:38.776] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@42e2251f
+[24Jan2025 23:58:38.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.70] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.52, y=64.00, z=-987.39]
+[24Jan2025 23:58:38.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.70] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:38.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.70] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.70]
+[24Jan2025 23:58:38.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.24, y=64.06, z=-986.70] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.69, y=65.73, z=-981.30]
+[24Jan2025 23:58:38.984] [Server thread/DEBUG] [pointblank/]: 18984 handling client fire request
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 14
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: 18985 - obtained hit result in 0ms
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: 18985 obtained hit results
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7d731060
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.62, y=64.06, z=-987.22] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=467.21, y=64.06, z=-986.66]
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.62, y=64.06, z=-987.22] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.62, y=64.06, z=-987.22] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.62, y=64.06, z=-987.22]
+[24Jan2025 23:58:38.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.62, y=64.06, z=-987.22] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.67, y=65.35, z=-981.30]
+[24Jan2025 23:58:39.195] [Server thread/DEBUG] [pointblank/]: 19195 handling client fire request
+[24Jan2025 23:58:39.195] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 13
+[24Jan2025 23:58:39.195] [Server thread/DEBUG] [pointblank/]: 19195 - obtained hit result in 0ms
+[24Jan2025 23:58:39.195] [Server thread/DEBUG] [pointblank/]: 19195 obtained hit results
+[24Jan2025 23:58:39.196] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52c2bc5d
+[24Jan2025 23:58:39.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.46, y=64.00, z=-987.42] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=466.21, y=64.06, z=-986.36]
+[24Jan2025 23:58:39.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.46, y=64.00, z=-987.42] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:39.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.46, y=64.00, z=-987.42] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.46, y=64.00, z=-987.42]
+[24Jan2025 23:58:39.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.46, y=64.00, z=-987.42] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.26, y=64.00, z=-981.32]
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: 19385 handling client fire request
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 12
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: 19385 - obtained hit result in 0ms
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: 19385 obtained hit results
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1d97816
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.58, y=64.06, z=-987.10] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=466.07, y=64.06, z=-986.36]
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.58, y=64.06, z=-987.10] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.58, y=64.06, z=-987.10] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.58, y=64.06, z=-987.10]
+[24Jan2025 23:58:39.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.58, y=64.06, z=-987.10] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=465.10, y=64.00, z=-981.44]
+[24Jan2025 23:58:39.595] [Server thread/DEBUG] [pointblank/]: 19595 handling client fire request
+[24Jan2025 23:58:39.595] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 11
+[24Jan2025 23:58:39.595] [Server thread/DEBUG] [pointblank/]: 19595 - obtained hit result in 0ms
+[24Jan2025 23:58:39.595] [Server thread/DEBUG] [pointblank/]: 19595 obtained hit results
+[24Jan2025 23:58:39.595] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52c07fef
+[24Jan2025 23:58:39.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 is bleeding. Cori28 was slain by oroz_09
+[24Jan2025 23:58:39.596] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.20, y=64.06, z=-986.40] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=466.06, y=64.06, z=-986.36]
+[24Jan2025 23:58:39.597] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.20, y=64.06, z=-986.40] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:39.597] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.20, y=64.06, z=-986.40] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.20, y=64.06, z=-986.40]
+[24Jan2025 23:58:39.597] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.20, y=64.06, z=-986.40] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.96, y=64.94, z=-981.30]
+[24Jan2025 23:58:39.801] [Server thread/DEBUG] [pointblank/]: 19801 handling client fire request
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 10
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: 19802 - obtained hit result in 0ms
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: 19802 obtained hit results
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@375595c7
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.73, y=64.06, z=-985.68] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.56, y=64.06, z=-986.53]
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.73, y=64.06, z=-985.68] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.73, y=64.06, z=-985.68] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.73, y=64.06, z=-985.68]
+[24Jan2025 23:58:39.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.73, y=64.06, z=-985.68] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=465.22, y=64.58, z=-981.30]
+[24Jan2025 23:58:39.874] [Server thread/DEBUG] [pointblank/]: 19874 handling client fire request
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 9
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: 19875 - obtained hit result in 0ms
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: 19875 obtained hit results
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7032e724
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.37, y=64.06, z=-985.14] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.48, y=64.06, z=-986.56]
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.37, y=64.06, z=-985.14] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.37, y=64.06, z=-985.14] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.37, y=64.06, z=-985.14]
+[24Jan2025 23:58:39.875] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.37, y=64.06, z=-985.14] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.87, y=64.83, z=-981.30]
+[24Jan2025 23:58:40.079] [Server thread/DEBUG] [pointblank/]: 20079 handling client fire request
+[24Jan2025 23:58:40.079] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 8
+[24Jan2025 23:58:40.080] [Server thread/DEBUG] [pointblank/]: 20080 - obtained hit result in 0ms
+[24Jan2025 23:58:40.080] [Server thread/DEBUG] [pointblank/]: 20080 obtained hit results
+[24Jan2025 23:58:40.080] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a6138fc
+[24Jan2025 23:58:40.080] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.04, y=64.06, z=-984.58] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.13, y=64.06, z=-986.83]
+[24Jan2025 23:58:40.080] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.04, y=64.06, z=-984.58] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:40.080] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.04, y=64.06, z=-984.58] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.04, y=64.06, z=-984.58]
+[24Jan2025 23:58:40.080] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=467.04, y=64.06, z=-984.58] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.53, y=64.68, z=-981.30]
+[24Jan2025 23:58:40.872] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "_MrCuack_" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=462, y=64, z=-985}] too quickly!
+[24Jan2025 23:58:41.480] [Server thread/DEBUG] [pointblank/]: 21480 handling client fire request
+[24Jan2025 23:58:41.480] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 7
+[24Jan2025 23:58:41.480] [Server thread/DEBUG] [pointblank/]: 21480 - obtained hit result in 0ms
+[24Jan2025 23:58:41.480] [Server thread/DEBUG] [pointblank/]: 21480 obtained hit results
+[24Jan2025 23:58:41.480] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b0f0758
+[24Jan2025 23:58:41.481] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.56, y=64.06, z=-985.99]
+[24Jan2025 23:58:41.481] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:41.481] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44]
+[24Jan2025 23:58:41.481] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.42, y=64.00, z=-981.93]
+[24Jan2025 23:58:41.626] [Server thread/DEBUG] [pointblank/]: 21626 handling client fire request
+[24Jan2025 23:58:41.626] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 6
+[24Jan2025 23:58:41.626] [Server thread/DEBUG] [pointblank/]: 21626 - obtained hit result in 0ms
+[24Jan2025 23:58:41.626] [Server thread/DEBUG] [pointblank/]: 21626 obtained hit results
+[24Jan2025 23:58:41.626] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@706f5c53
+[24Jan2025 23:58:41.626] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.60, y=64.06, z=-985.68]
+[24Jan2025 23:58:41.627] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:41.627] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44]
+[24Jan2025 23:58:41.627] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.39, y=64.00, z=-982.06]
+[24Jan2025 23:58:41.776] [Server thread/DEBUG] [pointblank/]: 21776 handling client fire request
+[24Jan2025 23:58:41.776] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 5
+[24Jan2025 23:58:41.776] [Server thread/DEBUG] [pointblank/]: 21776 - obtained hit result in 0ms
+[24Jan2025 23:58:41.776] [Server thread/DEBUG] [pointblank/]: 21776 obtained hit results
+[24Jan2025 23:58:41.776] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6cdfabf4
+[24Jan2025 23:58:41.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.43, y=64.06, z=-984.97]
+[24Jan2025 23:58:41.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:41.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44]
+[24Jan2025 23:58:41.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.56, y=64.00, z=-982.44] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.24, y=64.36, z=-981.95]
+[24Jan2025 23:58:41.934] [Server thread/DEBUG] [pointblank/]: 21934 handling client fire request
+[24Jan2025 23:58:41.934] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 4
+[24Jan2025 23:58:41.934] [Server thread/DEBUG] [pointblank/]: 21934 - obtained hit result in 0ms
+[24Jan2025 23:58:41.934] [Server thread/DEBUG] [pointblank/]: 21934 obtained hit results
+[24Jan2025 23:58:41.934] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2af6a142
+[24Jan2025 23:58:41.934] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.79, y=64.06, z=-982.54] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.41, y=64.06, z=-984.71]
+[24Jan2025 23:58:41.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.79, y=64.06, z=-982.54] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:41.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.79, y=64.06, z=-982.54] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.79, y=64.06, z=-982.54]
+[24Jan2025 23:58:41.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.79, y=64.06, z=-982.54] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=464.24, y=65.54, z=-981.53]
+[24Jan2025 23:58:42.091] [Server thread/DEBUG] [pointblank/]: 22091 handling client fire request
+[24Jan2025 23:58:42.091] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 3
+[24Jan2025 23:58:42.091] [Server thread/DEBUG] [pointblank/]: 22091 - obtained hit result in 0ms
+[24Jan2025 23:58:42.091] [Server thread/DEBUG] [pointblank/]: 22091 obtained hit results
+[24Jan2025 23:58:42.091] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@17d5d231
+[24Jan2025 23:58:42.091] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.43, y=64.06, z=-982.80] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.41, y=64.06, z=-984.67]
+[24Jan2025 23:58:42.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.43, y=64.06, z=-982.80] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:42.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.43, y=64.06, z=-982.80] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.43, y=64.06, z=-982.80]
+[24Jan2025 23:58:42.092] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=466.43, y=64.06, z=-982.80] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=463.52, y=66.14, z=-981.30]
+[24Jan2025 23:58:43.351] [Server thread/DEBUG] [pointblank/]: 23351 handling client fire request
+[24Jan2025 23:58:43.351] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 2
+[24Jan2025 23:58:43.352] [Server thread/DEBUG] [pointblank/]: 23352 - obtained hit result in 0ms
+[24Jan2025 23:58:43.352] [Server thread/DEBUG] [pointblank/]: 23352 obtained hit results
+[24Jan2025 23:58:43.352] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@372b6f9a
+[24Jan2025 23:58:43.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cori28 was slain by oroz_09
+[24Jan2025 23:58:43.362] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.21, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.31, y=64.06, z=-984.53]
+[24Jan2025 23:58:43.362] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.21, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.06, z=-984.33]
+[24Jan2025 23:58:43.362] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.21, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.21, y=64.00, z=-982.18]
+[24Jan2025 23:58:43.362] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.21, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=463.26, y=65.88, z=-981.78]
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: 23513 handling client fire request
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 1
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: 23513 - obtained hit result in 0ms
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: 23513 obtained hit results
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37c83762
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.46, y=64.06, z=-984.13]
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=64.82, z=-984.33]
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18]
+[24Jan2025 23:58:43.513] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=463.20, y=65.88, z=-981.71]
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: 23580 handling client fire request
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 0
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: 23580 - obtained hit result in 0ms
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: 23580 obtained hit results
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b73d9be
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=465.48, y=64.06, z=-984.08]
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.67, y=65.23, z=-984.33]
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18]
+[24Jan2025 23:58:43.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=465.20, y=64.00, z=-982.18] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=463.19, y=65.88, z=-981.68]
+[24Jan2025 23:58:44.862] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Jan2025 23:58:53.953] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 30
+[24Jan2025 23:58:54.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6136ms or 122 ticks behind
+[24Jan2025 23:59:00.762] [Server thread/DEBUG] [pointblank/]: 40762 handling client fire request
+[24Jan2025 23:59:00.762] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 29
+[24Jan2025 23:59:00.762] [Server thread/DEBUG] [pointblank/]: 40762 - obtained hit result in 0ms
+[24Jan2025 23:59:00.762] [Server thread/DEBUG] [pointblank/]: 40762 obtained hit results
+[24Jan2025 23:59:00.762] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@820ccc0
+[24Jan2025 23:59:00.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.24, y=64.00, z=-987.67] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=466.86, y=64.06, z=-986.83]
+[24Jan2025 23:59:00.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.24, y=64.00, z=-987.67] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=463.11, y=64.88, z=-984.20]
+[24Jan2025 23:59:00.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.24, y=64.00, z=-987.67] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.24, y=64.00, z=-987.67]
+[24Jan2025 23:59:00.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=468.24, y=64.00, z=-987.67] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=463.19, y=65.88, z=-981.30]
+[24Jan2025 23:59:07.172] [Server thread/DEBUG] [pointblank/]: 47172 handling client fire request
+[24Jan2025 23:59:07.172] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 28
+[24Jan2025 23:59:07.173] [Server thread/DEBUG] [pointblank/]: 47173 - obtained hit result in 1ms
+[24Jan2025 23:59:07.173] [Server thread/DEBUG] [pointblank/]: 47173 obtained hit results
+[24Jan2025 23:59:07.173] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14522ece
+[24Jan2025 23:59:07.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.08, y=63.00, z=-1004.25] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=470.58, y=63.50, z=-994.12]
+[24Jan2025 23:59:07.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.08, y=63.00, z=-1004.25] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=465.25, y=64.06, z=-985.09]
+[24Jan2025 23:59:07.175] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.08, y=63.00, z=-1004.25] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.08, y=63.00, z=-1004.25]
+[24Jan2025 23:59:07.175] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.08, y=63.00, z=-1004.25] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.10, y=64.00, z=-987.70]
+[24Jan2025 23:59:07.317] [Server thread/DEBUG] [pointblank/]: 47317 handling client fire request
+[24Jan2025 23:59:07.317] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 27
+[24Jan2025 23:59:07.317] [Server thread/DEBUG] [pointblank/]: 47317 - obtained hit result in 0ms
+[24Jan2025 23:59:07.317] [Server thread/DEBUG] [pointblank/]: 47317 obtained hit results
+[24Jan2025 23:59:07.317] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bc15b95
+[24Jan2025 23:59:07.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peloteuz12 is bleeding. peloteuz12 was slain by oroz_09
+[24Jan2025 23:59:07.318] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.61, y=63.00, z=-1004.62] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=471.14, y=62.92, z=-994.73]
+[24Jan2025 23:59:07.318] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.61, y=63.00, z=-1004.62] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=465.25, y=64.06, z=-985.09]
+[24Jan2025 23:59:07.318] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.61, y=63.00, z=-1004.62] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.61, y=63.00, z=-1004.62]
+[24Jan2025 23:59:07.318] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.61, y=63.00, z=-1004.62] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=467.78, y=64.00, z=-987.70]
+[24Jan2025 23:59:07.531] [Server thread/DEBUG] [pointblank/]: 47531 handling client fire request
+[24Jan2025 23:59:07.531] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 26
+[24Jan2025 23:59:07.531] [Server thread/DEBUG] [pointblank/]: 47531 - obtained hit result in 0ms
+[24Jan2025 23:59:07.531] [Server thread/DEBUG] [pointblank/]: 47531 obtained hit results
+[24Jan2025 23:59:07.531] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@51659beb
+[24Jan2025 23:59:07.532] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=486.65, y=63.00, z=-1004.61] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=470.78, y=63.08, z=-994.80]
+[24Jan2025 23:59:07.532] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=486.65, y=63.00, z=-1004.61] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=465.25, y=64.06, z=-985.09]
+[24Jan2025 23:59:07.532] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=486.65, y=63.00, z=-1004.61] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=486.65, y=63.00, z=-1004.61]
+[24Jan2025 23:59:07.532] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=486.65, y=63.00, z=-1004.61] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=467.32, y=64.00, z=-988.29]
+[24Jan2025 23:59:10.583] [Server thread/DEBUG] [pointblank/]: 50583 handling client fire request
+[24Jan2025 23:59:10.584] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 23
+[24Jan2025 23:59:10.584] [Server thread/DEBUG] [pointblank/]: 50584 - obtained hit result in 0ms
+[24Jan2025 23:59:10.584] [Server thread/DEBUG] [pointblank/]: 50584 obtained hit results
+[24Jan2025 23:59:10.584] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@108b259e
+[24Jan2025 23:59:10.584] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=468.84, y=62.05, z=-994.73]
+[24Jan2025 23:59:10.584] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=466.54, y=64.06, z=-986.15]
+[24Jan2025 23:59:10.584] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=485.21, y=64.18, z=-1001.72]
+[24Jan2025 23:59:10.585] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40]
+[24Jan2025 23:59:10.780] [Server thread/DEBUG] [pointblank/]: 50780 handling client fire request
+[24Jan2025 23:59:10.780] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 22
+[24Jan2025 23:59:10.780] [Server thread/DEBUG] [pointblank/]: 50780 - obtained hit result in 0ms
+[24Jan2025 23:59:10.781] [Server thread/DEBUG] [pointblank/]: 50781 obtained hit results
+[24Jan2025 23:59:10.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2e1c2928
+[24Jan2025 23:59:10.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=468.84, y=62.64, z=-994.73]
+[24Jan2025 23:59:10.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=466.98, y=64.06, z=-986.89]
+[24Jan2025 23:59:10.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=484.00, y=63.12, z=-1001.58]
+[24Jan2025 23:59:10.781] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40]
+[24Jan2025 23:59:10.919] [Server thread/DEBUG] [pointblank/]: 50919 handling client fire request
+[24Jan2025 23:59:10.919] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 21
+[24Jan2025 23:59:10.920] [Server thread/DEBUG] [pointblank/]: 50920 - obtained hit result in 0ms
+[24Jan2025 23:59:10.920] [Server thread/DEBUG] [pointblank/]: 50920 obtained hit results
+[24Jan2025 23:59:10.920] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fb35504
+[24Jan2025 23:59:10.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=470.98, y=63.78, z=-993.07]
+[24Jan2025 23:59:10.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=467.39, y=64.06, z=-987.35]
+[24Jan2025 23:59:10.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=484.63, y=63.00, z=-1002.05]
+[24Jan2025 23:59:10.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.52, y=63.00, z=-993.40]
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: 51067 handling client fire request
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 20
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: 51067 - obtained hit result in 0ms
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: 51067 obtained hit results
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4e24776
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.47, y=63.00, z=-993.49] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=473.19, y=64.52, z=-991.35]
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.47, y=63.00, z=-993.49] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=467.64, y=64.00, z=-987.70]
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.47, y=63.00, z=-993.49] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=484.21, y=64.00, z=-1002.47]
+[24Jan2025 23:59:11.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.47, y=63.00, z=-993.49] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.47, y=63.00, z=-993.49]
+[24Jan2025 23:59:11.203] [Server thread/DEBUG] [pointblank/]: 51203 handling client fire request
+[24Jan2025 23:59:11.203] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 19
+[24Jan2025 23:59:11.204] [Server thread/DEBUG] [pointblank/]: 51204 - obtained hit result in 0ms
+[24Jan2025 23:59:11.204] [Server thread/DEBUG] [pointblank/]: 51204 obtained hit results
+[24Jan2025 23:59:11.204] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@50074232
+[24Jan2025 23:59:11.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.58] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=476.54, y=65.00, z=-988.75]
+[24Jan2025 23:59:11.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.58] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=467.69, y=64.00, z=-987.70]
+[24Jan2025 23:59:11.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.58] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=483.74, y=64.25, z=-1002.76]
+[24Jan2025 23:59:11.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.58] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.58]
+[24Jan2025 23:59:11.347] [Server thread/DEBUG] [pointblank/]: 51347 handling client fire request
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 18
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: 51348 - obtained hit result in 0ms
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: 51348 obtained hit results
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@73d75277
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=478.34, y=64.70, z=-987.35]
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=467.39, y=64.00, z=-987.91]
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=483.17, y=63.80, z=-1002.99]
+[24Jan2025 23:59:11.348] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59]
+[24Jan2025 23:59:11.485] [Server thread/DEBUG] [pointblank/]: 51485 handling client fire request
+[24Jan2025 23:59:11.485] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 17
+[24Jan2025 23:59:11.485] [Server thread/DEBUG] [pointblank/]: 51485 - obtained hit result in 0ms
+[24Jan2025 23:59:11.485] [Server thread/DEBUG] [pointblank/]: 51485 obtained hit results
+[24Jan2025 23:59:11.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@36e9a412
+[24Jan2025 23:59:11.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=479.70, y=64.19, z=-986.30]
+[24Jan2025 23:59:11.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=467.30, y=64.00, z=-988.22]
+[24Jan2025 23:59:11.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=482.54, y=63.00, z=-1003.16]
+[24Jan2025 23:59:11.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=468.43, y=63.00, z=-993.59]
+[24Jan2025 23:59:12.848] [Server thread/DEBUG] [pointblank/]: 52848 handling client fire request
+[24Jan2025 23:59:12.848] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 16
+[24Jan2025 23:59:12.849] [Server thread/DEBUG] [pointblank/]: 52849 - obtained hit result in 1ms
+[24Jan2025 23:59:12.849] [Server thread/DEBUG] [pointblank/]: 52849 obtained hit results
+[24Jan2025 23:59:12.849] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@66a124d3
+[24Jan2025 23:59:12.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.39, y=63.00, z=-992.29] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=481.70, y=63.00, z=-984.55]
+[24Jan2025 23:59:12.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.39, y=63.00, z=-992.29] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=469.88, y=63.00, z=-992.10]
+[24Jan2025 23:59:12.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.39, y=63.00, z=-992.29] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=481.94, y=64.00, z=-1001.53]
+[24Jan2025 23:59:12.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.39, y=63.00, z=-992.29] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.39, y=63.00, z=-992.29]
+[24Jan2025 23:59:13.047] [Server thread/DEBUG] [pointblank/]: 53047 handling client fire request
+[24Jan2025 23:59:13.047] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 15
+[24Jan2025 23:59:13.047] [Server thread/DEBUG] [pointblank/]: 53047 - obtained hit result in 0ms
+[24Jan2025 23:59:13.047] [Server thread/DEBUG] [pointblank/]: 53047 obtained hit results
+[24Jan2025 23:59:13.047] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f27b298
+[24Jan2025 23:59:13.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.45, y=63.00, z=-992.30] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=481.70, y=63.00, z=-984.55]
+[24Jan2025 23:59:13.048] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.45, y=63.00, z=-992.30] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=470.43, y=63.00, z=-992.47]
+[24Jan2025 23:59:13.048] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.45, y=63.00, z=-992.30] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=482.36, y=64.18, z=-1000.64]
+[24Jan2025 23:59:13.048] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.45, y=63.00, z=-992.30] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=469.45, y=63.00, z=-992.30]
+[24Jan2025 23:59:15.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6041ms or 120 ticks behind
+[24Jan2025 23:59:18.095] [Server thread/DEBUG] [pointblank/]: 58095 handling client fire request
+[24Jan2025 23:59:18.095] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 14
+[24Jan2025 23:59:18.095] [Server thread/DEBUG] [pointblank/]: 58095 - obtained hit result in 0ms
+[24Jan2025 23:59:18.095] [Server thread/DEBUG] [pointblank/]: 58095 obtained hit results
+[24Jan2025 23:59:18.095] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66438ef4
+[24Jan2025 23:59:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peloteuz12 was slain by Cori28
+[24Jan2025 23:59:18.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=471.56, y=63.00, z=-991.91]
+[24Jan2025 23:59:18.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=478.78, y=66.00, z=-992.29]
+[24Jan2025 23:59:18.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=481.79, y=64.18, z=-986.47]
+[24Jan2025 23:59:18.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99]
+[24Jan2025 23:59:18.259] [Server thread/DEBUG] [pointblank/]: 58258 handling client fire request
+[24Jan2025 23:59:18.259] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 13
+[24Jan2025 23:59:18.259] [Server thread/DEBUG] [pointblank/]: 58259 - obtained hit result in 0ms
+[24Jan2025 23:59:18.259] [Server thread/DEBUG] [pointblank/]: 58259 obtained hit results
+[24Jan2025 23:59:18.259] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@bae5e9c
+[24Jan2025 23:59:18.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oroz_09 is bleeding. oroz_09 was slain by Cori28
+[24Jan2025 23:59:18.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=471.56, y=63.00, z=-991.91]
+[24Jan2025 23:59:18.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=478.53, y=66.00, z=-992.71]
+[24Jan2025 23:59:18.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=481.95, y=63.50, z=-986.49]
+[24Jan2025 23:59:18.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99]
+[24Jan2025 23:59:18.399] [Server thread/DEBUG] [pointblank/]: 58399 handling client fire request
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 12
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: 58400 - obtained hit result in 0ms
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: 58400 obtained hit results
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46df1be4
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=472.21, y=63.83, z=-991.42]
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=478.55, y=66.00, z=-993.38]
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=482.09, y=63.00, z=-986.54]
+[24Jan2025 23:59:18.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=470.15, y=63.00, z=-992.99]
+[24Jan2025 23:59:24.689] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Jan2025 23:59:37.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7617ms or 152 ticks behind
+[25Jan2025 00:00:00.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7514ms or 150 ticks behind
+[25Jan2025 00:00:21.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6579ms or 131 ticks behind
+[25Jan2025 00:00:41.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oroz_09 is bleeding. oroz_09 suffocated in a wall
+[25Jan2025 00:00:44.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8042ms or 160 ticks behind
+[25Jan2025 00:01:07.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8184ms or 163 ticks behind
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: 70044 handling client fire request
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 25
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: 70044 - obtained hit result in 0ms
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: 70044 obtained hit results
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@36afd900
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=475.62, y=63.40, z=-1013.71] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=475.72, y=63.00, z=-1013.21]
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=475.62, y=63.40, z=-1013.71] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=475.62, y=63.40, z=-1013.71]
+[25Jan2025 00:01:10.044] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=475.62, y=63.40, z=-1013.71] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=480.88, y=63.50, z=-1004.18]
+[25Jan2025 00:01:21.926] [Server thread/DEBUG] [pointblank/]: 81926 handling client fire request
+[25Jan2025 00:01:21.926] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 24
+[25Jan2025 00:01:21.926] [Server thread/DEBUG] [pointblank/]: 81926 - obtained hit result in 0ms
+[25Jan2025 00:01:21.926] [Server thread/DEBUG] [pointblank/]: 81926 obtained hit results
+[25Jan2025 00:01:21.926] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ffd4a05
+[25Jan2025 00:01:21.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=525.99, y=63.40, z=-1028.62] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=525.90, y=63.42, z=-1028.66]
+[25Jan2025 00:01:21.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=525.99, y=63.40, z=-1028.62] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=525.99, y=63.40, z=-1028.62]
+[25Jan2025 00:01:21.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=525.99, y=63.40, z=-1028.62] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=512.95, y=66.17, z=-1030.13]
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: 83163 handling client fire request
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 23
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: 83163 - obtained hit result in 0ms
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: 83163 obtained hit results
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5dda9ee4
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=533.20, y=63.76, z=-1028.30] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=532.60, y=63.36, z=-1028.33]
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=533.20, y=63.76, z=-1028.30] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=533.20, y=63.76, z=-1028.30]
+[25Jan2025 00:01:23.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=533.20, y=63.76, z=-1028.30] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=521.05, y=63.42, z=-1029.65]
+[25Jan2025 00:01:24.247] [Server thread/DEBUG] [pointblank/]: 84247 handling client fire request
+[25Jan2025 00:01:24.248] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 22
+[25Jan2025 00:01:24.248] [Server thread/DEBUG] [pointblank/]: 84248 - obtained hit result in 0ms
+[25Jan2025 00:01:24.248] [Server thread/DEBUG] [pointblank/]: 84248 obtained hit results
+[25Jan2025 00:01:24.248] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@639d030a
+[25Jan2025 00:01:24.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=538.94, y=63.90, z=-1028.29] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=538.58, y=63.12, z=-1028.31]
+[25Jan2025 00:01:24.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=538.94, y=63.90, z=-1028.29] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=538.94, y=63.90, z=-1028.29]
+[25Jan2025 00:01:24.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=538.94, y=63.90, z=-1028.29] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=528.65, y=63.12, z=-1029.23]
+[25Jan2025 00:01:24.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=538.94, y=63.90, z=-1028.29] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=628.89, y=62.97, z=-1017.81]
+[25Jan2025 00:01:28.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oroz_09 moved wrongly!
+[25Jan2025 00:01:31.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8348ms or 166 ticks behind
+[25Jan2025 00:01:32.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oroz_09 moved wrongly!
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: 99832 handling client fire request
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 21
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: 99832 - obtained hit result in 0ms
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: 99832 obtained hit results
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@245d4d3a
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=566.68, y=66.65, z=-1039.89] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=559.57, y=65.12, z=-1037.81]
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=566.68, y=66.65, z=-1039.89] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=566.68, y=66.65, z=-1039.89]
+[25Jan2025 00:01:39.832] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=566.68, y=66.65, z=-1039.89] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=566.09, y=66.25, z=-1039.75]
+[25Jan2025 00:01:39.833] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=566.68, y=66.65, z=-1039.89] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: 326 handling client fire request
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 20
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: 326 - obtained hit result in 0ms
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: 326 obtained hit results
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@54513d5b
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=569.35, y=67.65, z=-1039.92] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=561.52, y=65.00, z=-1038.41]
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=569.35, y=67.65, z=-1039.92] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=569.35, y=67.65, z=-1039.92]
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=569.35, y=67.65, z=-1039.92] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=568.75, y=67.25, z=-1039.86]
+[25Jan2025 00:01:40.326] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=569.35, y=67.65, z=-1039.92] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: 753 handling client fire request
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 19
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: 753 - obtained hit result in 0ms
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: 753 obtained hit results
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@66b7e9ae
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=571.58, y=67.15, z=-1039.46] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=564.14, y=66.25, z=-1039.23]
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=571.58, y=67.15, z=-1039.46] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=571.58, y=67.15, z=-1039.46]
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=571.58, y=67.15, z=-1039.46] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=570.98, y=66.75, z=-1039.45]
+[25Jan2025 00:01:40.753] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=571.58, y=67.15, z=-1039.46] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:40.914] [Server thread/DEBUG] [pointblank/]: 914 handling client fire request
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 18
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: 915 - obtained hit result in 0ms
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: 915 obtained hit results
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@925d102
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=572.23, y=67.65, z=-1038.94] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=564.96, y=66.02, z=-1039.47]
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=572.23, y=67.65, z=-1038.94] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=572.23, y=67.65, z=-1038.94]
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=572.23, y=67.65, z=-1038.94] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=571.65, y=67.25, z=-1039.07]
+[25Jan2025 00:01:40.915] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=572.23, y=67.65, z=-1038.94] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: 1376 handling client fire request
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 17
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: 1376 - obtained hit result in 0ms
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: 1376 obtained hit results
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75908895
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=573.98, y=65.40, z=-1037.74] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=567.26, y=66.25, z=-1039.72]
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=573.98, y=65.40, z=-1037.74] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=573.98, y=65.40, z=-1037.74]
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=573.98, y=65.40, z=-1037.74] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=573.43, y=65.00, z=-1037.99]
+[25Jan2025 00:01:41.376] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=573.98, y=65.40, z=-1037.74] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: 1834 handling client fire request
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 16
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: 1834 - obtained hit result in 0ms
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: 1834 obtained hit results
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@32cab6f1
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.14, y=66.20, z=-1036.30] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=569.95, y=67.17, z=-1039.65]
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.14, y=66.20, z=-1036.30] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.14, y=66.20, z=-1036.30]
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.14, y=66.20, z=-1036.30] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=575.62, y=65.80, z=-1036.61]
+[25Jan2025 00:01:41.834] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.14, y=66.20, z=-1036.30] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:41.926] [Server thread/DEBUG] [pointblank/]: 1926 handling client fire request
+[25Jan2025 00:01:41.926] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 15
+[25Jan2025 00:01:41.926] [Server thread/DEBUG] [pointblank/]: 1926 - obtained hit result in 0ms
+[25Jan2025 00:01:41.926] [Server thread/DEBUG] [pointblank/]: 1926 obtained hit results
+[25Jan2025 00:01:41.926] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5569098c
+[25Jan2025 00:01:41.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.54, y=65.52, z=-1036.05] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=570.70, y=67.18, z=-1039.40]
+[25Jan2025 00:01:41.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.54, y=65.52, z=-1036.05] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.54, y=65.52, z=-1036.05]
+[25Jan2025 00:01:41.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.54, y=65.52, z=-1036.05] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=576.22, y=64.68, z=-1036.23]
+[25Jan2025 00:01:41.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.54, y=65.52, z=-1036.05] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:42.394] [Server thread/DEBUG] [pointblank/]: 2394 handling client fire request
+[25Jan2025 00:01:42.394] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 14
+[25Jan2025 00:01:42.394] [Server thread/DEBUG] [pointblank/]: 2394 - obtained hit result in 0ms
+[25Jan2025 00:01:42.395] [Server thread/DEBUG] [pointblank/]: 2395 obtained hit results
+[25Jan2025 00:01:42.395] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5fac83b7
+[25Jan2025 00:01:42.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.90, y=64.40, z=-1035.73] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=573.04, y=65.75, z=-1038.04]
+[25Jan2025 00:01:42.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.90, y=64.40, z=-1035.73] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.90, y=64.40, z=-1035.73]
+[25Jan2025 00:01:42.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.90, y=64.40, z=-1035.73] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=576.31, y=64.00, z=-1036.06]
+[25Jan2025 00:01:42.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=576.90, y=64.40, z=-1035.73] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:43.281] [Server thread/DEBUG] [pointblank/]: 3281 handling client fire request
+[25Jan2025 00:01:43.281] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 13
+[25Jan2025 00:01:43.281] [Server thread/DEBUG] [pointblank/]: 3281 - obtained hit result in 0ms
+[25Jan2025 00:01:43.281] [Server thread/DEBUG] [pointblank/]: 3281 obtained hit results
+[25Jan2025 00:01:43.281] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@265e72eb
+[25Jan2025 00:01:43.282] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=578.77, y=64.08, z=-1032.92] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=577.39, y=65.25, z=-1035.09]
+[25Jan2025 00:01:43.282] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=578.77, y=64.08, z=-1032.92] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=578.77, y=64.08, z=-1032.92]
+[25Jan2025 00:01:43.282] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=578.77, y=64.08, z=-1032.92] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=578.55, y=63.16, z=-1033.27]
+[25Jan2025 00:01:43.282] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=578.77, y=64.08, z=-1032.92] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:44.623] [Server thread/DEBUG] [pointblank/]: 4623 handling client fire request
+[25Jan2025 00:01:44.623] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 12
+[25Jan2025 00:01:44.623] [Server thread/DEBUG] [pointblank/]: 4623 - obtained hit result in 0ms
+[25Jan2025 00:01:44.623] [Server thread/DEBUG] [pointblank/]: 4623 obtained hit results
+[25Jan2025 00:01:44.623] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3144c954
+[25Jan2025 00:01:44.623] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=580.04, y=63.40, z=-1029.72] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=578.65, y=63.00, z=-1033.68]
+[25Jan2025 00:01:44.623] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=580.04, y=63.40, z=-1029.72] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=580.04, y=63.40, z=-1029.72]
+[25Jan2025 00:01:44.624] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=580.04, y=63.40, z=-1029.72] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=580.09, y=63.42, z=-1029.91]
+[25Jan2025 00:01:44.624] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=580.04, y=63.40, z=-1029.72] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: 5360 handling client fire request
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 11
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: 5360 - obtained hit result in 0ms
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: 5360 obtained hit results
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@314af5fb
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=583.25, y=65.59, z=-1027.78] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=580.10, y=64.18, z=-1030.11]
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=583.25, y=65.59, z=-1027.78] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=583.25, y=65.59, z=-1027.78]
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=583.25, y=65.59, z=-1027.78] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=582.73, y=65.19, z=-1028.08]
+[25Jan2025 00:01:45.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=583.25, y=65.59, z=-1027.78] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: 5879 handling client fire request
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 10
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: 5879 - obtained hit result in 0ms
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: 5879 obtained hit results
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@28f49e7b
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=585.51, y=64.40, z=-1028.03] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=580.70, y=63.36, z=-1027.82]
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=585.51, y=64.40, z=-1028.03] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=585.51, y=64.40, z=-1028.03]
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=585.51, y=64.40, z=-1028.03] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=584.97, y=64.00, z=-1028.28]
+[25Jan2025 00:01:45.879] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=585.51, y=64.40, z=-1028.03] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: 6748 handling client fire request
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 9
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: 6748 - obtained hit result in 0ms
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: 6748 obtained hit results
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@666c12ce
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=589.87, y=64.76, z=-1028.34] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=582.01, y=64.18, z=-1027.23]
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=589.87, y=64.76, z=-1028.34] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=589.87, y=64.76, z=-1028.34]
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=589.87, y=64.76, z=-1028.34] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=589.27, y=64.36, z=-1028.32]
+[25Jan2025 00:01:46.748] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=589.87, y=64.76, z=-1028.34] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: 7507 handling client fire request
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 8
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: 7507 - obtained hit result in 0ms
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: 7507 obtained hit results
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5eafcc0d
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=593.70, y=65.40, z=-1028.27] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=586.01, y=64.00, z=-1027.82]
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=593.70, y=65.40, z=-1028.27] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=593.70, y=65.40, z=-1028.27]
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=593.70, y=65.40, z=-1028.27] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=593.10, y=65.00, z=-1028.26]
+[25Jan2025 00:01:47.507] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=593.70, y=65.40, z=-1028.27] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:47.656] [Server thread/DEBUG] [pointblank/]: 7656 handling client fire request
+[25Jan2025 00:01:47.656] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 7
+[25Jan2025 00:01:47.657] [Server thread/DEBUG] [pointblank/]: 7657 - obtained hit result in 0ms
+[25Jan2025 00:01:47.657] [Server thread/DEBUG] [pointblank/]: 7657 obtained hit results
+[25Jan2025 00:01:47.657] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@36b5514d
+[25Jan2025 00:01:47.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=594.76, y=65.58, z=-1028.33] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=587.27, y=65.00, z=-1027.95]
+[25Jan2025 00:01:47.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=594.76, y=65.58, z=-1028.33] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=594.76, y=65.58, z=-1028.33]
+[25Jan2025 00:01:47.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=594.76, y=65.58, z=-1028.33] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=594.16, y=65.18, z=-1028.31]
+[25Jan2025 00:01:47.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=594.76, y=65.58, z=-1028.33] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:47.827] [Server thread/DEBUG] [pointblank/]: 7827 handling client fire request
+[25Jan2025 00:01:47.827] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 6
+[25Jan2025 00:01:47.827] [Server thread/DEBUG] [pointblank/]: 7827 - obtained hit result in 0ms
+[25Jan2025 00:01:47.827] [Server thread/DEBUG] [pointblank/]: 7827 obtained hit results
+[25Jan2025 00:01:47.827] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31a57ed7
+[25Jan2025 00:01:47.827] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=595.49, y=64.90, z=-1028.37] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=588.25, y=65.25, z=-1028.05]
+[25Jan2025 00:01:47.828] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=595.49, y=64.90, z=-1028.37] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=595.49, y=64.90, z=-1028.37]
+[25Jan2025 00:01:47.828] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=595.49, y=64.90, z=-1028.37] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=594.89, y=64.50, z=-1028.35]
+[25Jan2025 00:01:47.828] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=595.49, y=64.90, z=-1028.37] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: 7969 handling client fire request
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 5
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: 7969 - obtained hit result in 0ms
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: 7969 obtained hit results
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6dac101d
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=596.46, y=64.82, z=-1028.34] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=589.20, y=64.80, z=-1028.14]
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=596.46, y=64.82, z=-1028.34] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=596.46, y=64.82, z=-1028.34]
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=596.46, y=64.82, z=-1028.34] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=595.86, y=64.42, z=-1028.32]
+[25Jan2025 00:01:47.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=596.46, y=64.82, z=-1028.34] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: 8119 handling client fire request
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 4
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: 8119 - obtained hit result in 0ms
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: 8119 obtained hit results
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@c5f81cb
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=597.30, y=65.57, z=-1028.21] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=590.12, y=64.00, z=-1028.21]
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=597.30, y=65.57, z=-1028.21] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=597.30, y=65.57, z=-1028.21]
+[25Jan2025 00:01:48.119] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=597.30, y=65.57, z=-1028.21] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=596.70, y=65.17, z=-1028.22]
+[25Jan2025 00:01:48.120] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=597.30, y=65.57, z=-1028.21] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: 8570 handling client fire request
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 3
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: 8570 - obtained hit result in 0ms
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: 8570 obtained hit results
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7ee3c3e4
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=599.72, y=64.82, z=-1027.68] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=593.42, y=64.80, z=-1028.40]
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=599.72, y=64.82, z=-1027.68] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=599.72, y=64.82, z=-1027.68]
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=599.72, y=64.82, z=-1027.68] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=599.13, y=64.42, z=-1027.73]
+[25Jan2025 00:01:48.570] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=599.72, y=64.82, z=-1027.68] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:48.735] [Server thread/DEBUG] [pointblank/]: 8735 handling client fire request
+[25Jan2025 00:01:48.735] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 2
+[25Jan2025 00:01:48.735] [Server thread/DEBUG] [pointblank/]: 8735 - obtained hit result in 0ms
+[25Jan2025 00:01:48.735] [Server thread/DEBUG] [pointblank/]: 8735 obtained hit results
+[25Jan2025 00:01:48.735] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@13af72af
+[25Jan2025 00:01:48.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=600.55, y=65.57, z=-1027.45] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=594.36, y=63.94, z=-1028.45]
+[25Jan2025 00:01:48.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=600.55, y=65.57, z=-1027.45] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=600.55, y=65.57, z=-1027.45]
+[25Jan2025 00:01:48.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=600.55, y=65.57, z=-1027.45] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=599.95, y=65.17, z=-1027.53]
+[25Jan2025 00:01:48.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=600.55, y=65.57, z=-1027.45] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:48.815] [Server thread/DEBUG] [pointblank/]: 8815 handling client fire request
+[25Jan2025 00:01:48.815] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 1
+[25Jan2025 00:01:48.815] [Server thread/DEBUG] [pointblank/]: 8815 - obtained hit result in 0ms
+[25Jan2025 00:01:48.815] [Server thread/DEBUG] [pointblank/]: 8815 obtained hit results
+[25Jan2025 00:01:48.815] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@96aab8f
+[25Jan2025 00:01:48.815] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.06, y=65.65, z=-1027.31] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=595.68, y=64.94, z=-1028.42]
+[25Jan2025 00:01:48.815] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.06, y=65.65, z=-1027.31] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.06, y=65.65, z=-1027.31]
+[25Jan2025 00:01:48.816] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.06, y=65.65, z=-1027.31] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=600.72, y=65.18, z=-1027.35]
+[25Jan2025 00:01:48.816] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.06, y=65.65, z=-1027.31] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: 8971 handling client fire request
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 0
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: 8971 - obtained hit result in 0ms
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: 8971 obtained hit results
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@397f23ca
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.78, y=65.40, z=-1027.10] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=596.70, y=65.19, z=-1028.35]
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.78, y=65.40, z=-1027.10] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.78, y=65.40, z=-1027.10]
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.78, y=65.40, z=-1027.10] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=601.62, y=65.42, z=-1026.96]
+[25Jan2025 00:01:48.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=601.78, y=65.40, z=-1027.10] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=627.27, y=62.00, z=-1017.50]
+[25Jan2025 00:01:50.827] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1817243504 to 21
+[25Jan2025 00:01:53.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7162ms or 143 ticks behind
+[25Jan2025 00:01:53.404] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[25Jan2025 00:01:53.404] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[25Jan2025 00:02:14.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6145ms or 122 ticks behind
+[25Jan2025 00:02:34.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5208ms or 104 ticks behind
+[25Jan2025 00:02:54.160] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1714919722 to 4
+[25Jan2025 00:02:54.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5169ms or 103 ticks behind
+[25Jan2025 00:03:15.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[25Jan2025 00:03:34.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4573ms or 91 ticks behind
+[25Jan2025 00:03:51.662] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[25Jan2025 00:03:51.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 00:03:51.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 00:03:52.151] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[25Jan2025 00:03:55.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5858ms or 117 ticks behind
+[25Jan2025 00:04:16.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6028ms or 120 ticks behind
+[25Jan2025 00:04:28.973] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1714919722 to 20
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: 72022 handling client fire request
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1714919722 to 19
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: 72022 - obtained hit result in 0ms
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: 72022 obtained hit results
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1560ce01
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02]
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=506.12, y=66.75, z=-1047.89]
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50]
+[25Jan2025 00:04:32.022] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=617.62, y=66.00, z=-1014.26]
+[25Jan2025 00:04:32.709] [Server thread/DEBUG] [pointblank/]: 72709 handling client fire request
+[25Jan2025 00:04:32.709] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1714919722 to 18
+[25Jan2025 00:04:32.709] [Server thread/DEBUG] [pointblank/]: 72709 - obtained hit result in 0ms
+[25Jan2025 00:04:32.709] [Server thread/DEBUG] [pointblank/]: 72709 obtained hit results
+[25Jan2025 00:04:32.709] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5dec7195
+[25Jan2025 00:04:32.709] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02]
+[25Jan2025 00:04:32.709] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=504.06, y=66.77, z=-1051.98]
+[25Jan2025 00:04:32.710] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50]
+[25Jan2025 00:04:32.710] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=635.90, y=62.00, z=-1019.02] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=621.85, y=67.25, z=-1014.62]
+[25Jan2025 00:04:39.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7719ms or 154 ticks behind
+[25Jan2025 00:04:46.399] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 272649477 to 20
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: 99617 handling client fire request
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 272649477 to 19
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: 99617 - obtained hit result in 0ms
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: 99617 obtained hit results
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4dc89326
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=633.74, y=62.00, z=-1017.76] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=633.74, y=62.00, z=-1017.76]
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=633.74, y=62.00, z=-1017.76] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=484.35, y=69.94, z=-1095.46]
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=633.74, y=62.00, z=-1017.76] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50]
+[25Jan2025 00:04:59.617] [Server thread/DEBUG] [pointblank/]: ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=633.74, y=62.00, z=-1017.76] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=616.91, y=66.00, z=-1026.32]
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: 1668 handling client fire request
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 740877051 to 11
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: 1668 - obtained hit result in 0ms
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: 1668 obtained hit results
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1207bc7b
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50] sends hit scan notification to ServerPlayer['_MrCuack_'/52624, l='ServerLevel[world]', x=633.74, y=62.00, z=-1017.76]
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50] sends hit scan notification to ServerPlayer['oroz_09'/32668, l='ServerLevel[world]', x=482.17, y=70.00, z=-1094.97]
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50] sends hit scan notification to ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50]
+[25Jan2025 00:05:01.668] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Cori28'/119858, l='ServerLevel[world]', x=630.50, y=62.03, z=-1018.50] sends hit scan notification to ServerPlayer['peloteuz12'/9929, l='ServerLevel[world]', x=623.43, y=66.80, z=-1021.10]
+[25Jan2025 00:05:01.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7831ms or 156 ticks behind
