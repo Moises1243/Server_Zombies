@@ -82,6 +82,7 @@
       "minecraft:lush_caves": "2025-01-24 02:49:04 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 01:51:03 +0000",
       "minecraft:ocean": "2025-01-22 00:06:43 +0000",
+      "minecraft:jungle": "2025-01-25 22:28:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-22 00:59:28 +0000",
       "minecraft:windswept_savanna": "2025-01-24 02:16:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-22 00:22:12 +0000",
@@ -6998,6 +6999,42 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_cut_copper_slab": "2025-01-25 00:36:23 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-01-25 22:33:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-25 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/cut_iron": {
+    "criteria": {
+      "has_copper_block": "2025-01-25 22:33:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-01-25 22:31:56 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/waxed_exposed_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-01-25 22:33:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/exposed_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-01-25 22:33:32 +0000"
     },
     "done": true
   },

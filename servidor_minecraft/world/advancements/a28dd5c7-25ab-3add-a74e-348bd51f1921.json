@@ -6685,33 +6685,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-01-24 23:30:27 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-01-24 23:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-01-24 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-01-25 00:17:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-01-24 23:30:27 +0000"
     },
     "done": true
   },
@@ -6721,9 +6697,58 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-24 23:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-24 23:30:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-24 23:30:27 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
     "criteria": {
       "has_beetroot": "2025-01-24 23:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-24 23:30:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-01-24 23:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-24 23:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-01-25 00:32:09 +0000",
+      "minecraft:cow": "2025-01-24 23:33:15 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-25 00:17:55 +0000"
     },
     "done": true
   },
@@ -6736,31 +6761,6 @@
   "immersive_weathering:immersive_weathering/moss": {
     "criteria": {
       "apple": "2025-01-25 00:37:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-01-24 23:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-01-24 23:30:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2025-01-25 00:32:09 +0000",
-      "minecraft:cow": "2025-01-24 23:33:15 +0000"
-    },
-    "done": false
-  },
-  "immersive_weathering:immersive_weathering/weeds": {
-    "criteria": {
-      "wheat": "2025-01-24 23:31:11 +0000"
     },
     "done": true
   },
