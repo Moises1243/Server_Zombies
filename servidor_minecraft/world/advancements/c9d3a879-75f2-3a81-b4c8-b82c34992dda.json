@@ -5574,6 +5574,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-25 23:51:10 +0000"
+    },
+    "done": true
+  },
   "walkietalkie:recipes/stone_walkietalkie": {
     "criteria": {
       "has_redstone": "2025-01-25 23:16:22 +0000"
