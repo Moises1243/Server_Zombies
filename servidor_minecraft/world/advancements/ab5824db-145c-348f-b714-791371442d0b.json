@@ -6196,21 +6196,21 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-01-24 23:22:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-24 23:16:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_raw_iron_block": "2025-01-24 23:36:14 +0000"
+      "has_slime_ball": "2025-01-24 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-24 23:22:08 +0000"
     },
     "done": true
   },
@@ -6226,9 +6226,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_slime_ball": "2025-01-24 23:16:30 +0000"
+      "has_raw_iron_block": "2025-01-24 23:36:14 +0000"
     },
     "done": true
   },
