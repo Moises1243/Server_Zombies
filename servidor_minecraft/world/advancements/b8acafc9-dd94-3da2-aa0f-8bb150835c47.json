@@ -79,11 +79,14 @@
       "minecraft:river": "2025-01-21 02:03:15 +0000",
       "minecraft:lukewarm_ocean": "2025-01-25 00:41:06 +0000",
       "minecraft:snowy_plains": "2025-01-25 23:05:27 +0000",
+      "minecraft:stony_shore": "2025-01-25 23:22:28 +0000",
       "minecraft:dripstone_caves": "2025-01-25 22:59:17 +0000",
+      "minecraft:snowy_taiga": "2025-01-25 23:18:52 +0000",
       "minecraft:cold_ocean": "2025-01-21 01:07:35 +0000",
       "minecraft:forest": "2025-01-21 23:47:08 +0000",
       "minecraft:lush_caves": "2025-01-24 02:49:04 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 01:51:03 +0000",
+      "minecraft:ice_spikes": "2025-01-25 23:17:31 +0000",
       "minecraft:frozen_ocean": "2025-01-25 23:08:14 +0000",
       "minecraft:ocean": "2025-01-22 00:06:43 +0000",
       "minecraft:jungle": "2025-01-25 22:28:45 +0000",
@@ -7376,6 +7379,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-25 22:36:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-25 23:25:49 +0000"
     },
     "done": true
   },
