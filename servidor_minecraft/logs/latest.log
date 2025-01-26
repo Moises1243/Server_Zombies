@@ -47,3 +47,40 @@
 [26Jan2025 00:11:42.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10258ms or 205 ticks behind
 [26Jan2025 00:12:07.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9865ms or 197 ticks behind
 [26Jan2025 00:12:31.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9554ms or 191 ticks behind
+[26Jan2025 00:12:57.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10477ms or 209 ticks behind
+[26Jan2025 00:13:23.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11517ms or 230 ticks behind
+[26Jan2025 00:13:49.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10507ms or 210 ticks behind
+[26Jan2025 00:14:14.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10195ms or 203 ticks behind
+[26Jan2025 00:14:38.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8802ms or 176 ticks behind
+[26Jan2025 00:15:02.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9097ms or 181 ticks behind
+[26Jan2025 00:15:13.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/169459, l='ServerLevel[world]', x=468.18, y=64.06, z=-986.77] died, message: 'Arms Dealer was slain by oroz_09'
+[26Jan2025 00:15:26.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9617ms or 192 ticks behind
+[26Jan2025 00:15:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biviri has made the advancement [Ancient Shard]
+[26Jan2025 00:15:53.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11084ms or 221 ticks behind
+[26Jan2025 00:16:18.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10734ms or 214 ticks behind
+[26Jan2025 00:16:43.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9879ms or 197 ticks behind
+[26Jan2025 00:17:07.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9254ms or 185 ticks behind
+[26Jan2025 00:17:31.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8650ms or 173 ticks behind
+[26Jan2025 00:17:55.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9127ms or 182 ticks behind
+[26Jan2025 00:18:17.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6749ms or 134 ticks behind
+[26Jan2025 00:18:37.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5249ms or 104 ticks behind
+[26Jan2025 00:18:43.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peloteuz12 moved wrongly!
+[26Jan2025 00:18:58.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5778ms or 115 ticks behind
+[26Jan2025 00:18:59.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peloteuz12 moved wrongly!
+[26Jan2025 00:19:19.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6720ms or 134 ticks behind
+[26Jan2025 00:19:41.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6912ms or 138 ticks behind
+[26Jan2025 00:19:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CevITO69 has reached the goal [Sky's the Limit]
+[26Jan2025 00:20:05.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8725ms or 174 ticks behind
+[26Jan2025 00:20:29.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9382ms or 187 ticks behind
+[26Jan2025 00:20:54.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9215ms or 184 ticks behind
+[26Jan2025 00:21:06.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CevITO69 has made the advancement [Ad End-stra]
+[26Jan2025 00:21:16.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7298ms or 145 ticks behind
+[26Jan2025 00:21:38.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7117ms or 142 ticks behind
+[26Jan2025 00:21:51.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CevITO69: Teleported tucancamonkun to CevITO69]
+[26Jan2025 00:21:57.389] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/560043, l='ServerLevel[world]', x=641.50, y=72.00, z=-749.50]
+[26Jan2025 00:22:02.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8740ms or 174 ticks behind
+[26Jan2025 00:22:05.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/560576, l='ServerLevel[world]', x=595.50, y=70.00, z=-780.50]
+[26Jan2025 00:22:24.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7406ms or 148 ticks behind
+[26Jan2025 00:22:47.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7690ms or 153 ticks behind
+[26Jan2025 00:23:05.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79be2d68[id=<null>,name=Cori28,properties={},legacy=false] (/100.118.198.84:49534) lost connection: Disconnected
+[26Jan2025 00:23:10.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
