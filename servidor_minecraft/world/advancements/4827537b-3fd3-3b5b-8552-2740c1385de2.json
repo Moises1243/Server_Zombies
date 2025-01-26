@@ -7213,6 +7213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-26 00:30:28 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/stone_pillar": {
     "criteria": {
       "has_stone": "2025-01-26 00:03:58 +0000"
@@ -7369,6 +7375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-26 00:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-25 23:45:06 +0000"
@@ -7390,6 +7402,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-25 23:50:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-01-26 00:30:28 +0000"
     },
     "done": true
   },

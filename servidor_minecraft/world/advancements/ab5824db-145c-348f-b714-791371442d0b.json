@@ -6312,6 +6312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-26 00:20:16 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
       "has_torch": "2025-01-25 23:06:53 +0000"
@@ -6327,6 +6333,12 @@
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-25 22:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-26 00:20:16 +0000"
     },
     "done": true
   },
@@ -6441,6 +6453,12 @@
   "bbb:recipes/crimson_lantern": {
     "criteria": {
       "has_torch": "2025-01-25 23:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-26 00:20:16 +0000"
     },
     "done": true
   },
