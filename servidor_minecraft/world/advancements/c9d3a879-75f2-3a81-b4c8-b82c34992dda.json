@@ -1091,6 +1091,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "red_mushroom": "2025-01-21 00:34:00 +0000",
+      "wheat": "2025-01-26 00:39:07 +0000",
       "carrot": "2025-01-24 02:55:40 +0000"
     },
     "done": false
@@ -5853,6 +5854,30 @@
   "projectvibrantjourneys:recipes/decorations/cobblestone_from_rocks": {
     "criteria": {
       "has_rocks": "2025-01-25 23:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-26 00:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-26 00:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-26 00:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-26 00:39:07 +0000"
     },
     "done": true
   },
