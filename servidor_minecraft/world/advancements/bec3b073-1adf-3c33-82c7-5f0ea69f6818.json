@@ -6511,6 +6511,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-26 00:43:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-25 23:02:06 +0000"
@@ -6619,6 +6625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-26 00:44:46 +0000"
+    },
+    "done": true
+  },
   "table_top_craft:root": {
     "criteria": {
       "get_chess_piece": "2025-01-25 22:56:53 +0000"
@@ -6649,6 +6661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-01-26 00:46:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-25 22:45:55 +0000"
@@ -6664,6 +6682,12 @@
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-01-25 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-26 00:43:42 +0000"
     },
     "done": true
   },
@@ -6901,6 +6925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-26 00:43:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-01-25 23:02:06 +0000"
@@ -6916,6 +6946,12 @@
   "bbb:recipes/cherry_lantern": {
     "criteria": {
       "has_torch": "2025-01-25 23:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-01-26 00:46:46 +0000"
     },
     "done": true
   },
@@ -7129,6 +7165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-26 00:44:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-01-25 22:56:23 +0000"
@@ -7144,6 +7186,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-25 23:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-26 00:43:42 +0000"
     },
     "done": true
   },
