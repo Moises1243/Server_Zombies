@@ -135,6 +135,7 @@
       "cooked_beef": "2025-01-24 01:43:03 +0000",
       "beef": "2025-01-21 23:19:32 +0000",
       "bread": "2025-01-21 23:14:18 +0000",
+      "golden_apple": "2025-01-26 02:00:38 +0000",
       "carrot": "2025-01-26 01:23:43 +0000"
     },
     "done": false
@@ -6721,6 +6722,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/sandcastle": {
+    "criteria": {
+      "has_seashell": "2025-01-26 01:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-26 01:24:15 +0000"
@@ -6730,6 +6737,12 @@
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-01-26 01:12:24 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_block": {
+    "criteria": {
+      "has_seashell": "2025-01-26 01:57:02 +0000"
     },
     "done": true
   },
@@ -6748,6 +6761,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-01-26 01:24:15 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_tiles": {
+    "criteria": {
+      "has_seashell": "2025-01-26 01:57:02 +0000"
     },
     "done": true
   },
