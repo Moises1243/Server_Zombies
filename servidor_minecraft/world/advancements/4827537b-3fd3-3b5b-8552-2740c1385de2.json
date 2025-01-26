@@ -7309,6 +7309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-26 01:20:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-26 01:10:20 +0000"
